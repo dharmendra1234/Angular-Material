@@ -1,0 +1,47 @@
+<ng-container>
+  <div [class]="theme">
+    <mat-toolbar class="example-header" color="primary">
+      <span class="example-fill-remaining-space"></span>
+      <button mat-button routerLink="home">
+        <mat-icon>home</mat-icon>
+      </button>
+  
+      <button mat-button (click)="onClick">Contact</button>
+      <button mat-button (click)="onClick">Services</button>
+      <button mat-icon-button (click)="openThemeDialLog()" aria-label="Toggle menu">
+          <mat-icon>settings</mat-icon>
+      </button>
+
+    </mat-toolbar>
+
+    <mat-sidenav-container class="example-container" color="primary">
+
+      <mat-sidenav #sidenav mode="side" opened="true" class="example-sidenav" [fixedInViewport]="fixed" [fixedTopGap]="top" role="navigation"
+        [fixedBottomGap]="bottom">
+
+        <mat-nav-list>
+          <a mat-list-item routerLink="." *ngFor="let nav of fillerNav">{{nav}}</a>
+        </mat-nav-list>
+        <a mat-button routerLink="/dashboard">Dashboard</a>
+      
+        <a mat-button routerLink="/settings">Services</a>
+        <a mat-button routerLink="/contact">Contact</a>
+       
+      </mat-sidenav>
+
+      <mat-sidenav-content>
+
+        <router-outlet></router-outlet>
+
+      </mat-sidenav-content>
+
+    </mat-sidenav-container>
+
+    <mat-toolbar class="example-footer" color="primary">
+      <a href="https://github.com/dharmendra1234" mat-button>Github</a>
+      <a href="https://www.linkedin.com/in/dharmendra-pawar-ab114919" mat-button>LinkedIn</a>
+      <a href="https://www.youtube.com/channel/UCuzjecKPjmuR3vg_2HXTuwA" mat-button>Youtube</a>
+    </mat-toolbar>
+
+  </div>
+</ng-container>

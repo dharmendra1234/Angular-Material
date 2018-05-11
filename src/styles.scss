@@ -1,1 +1,59 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~@angular/material/theming';
+
+@include mat-core();
+
+
+//Default theme
+$candy-app-primary: mat-palette($mat-indigo);
+$candy-app-accent:  mat-palette($mat-pink, A200, A100, A400);
+$candy-app-theme:   mat-light-theme(
+                    $candy-app-primary, 
+                    $candy-app-accent);
+@include angular-material-theme($candy-app-theme);
+
+                $dark-primary: mat-palette($mat-pink, 700);
+                $dark-accent:  mat-palette($mat-green);
+                $dark-warn:    mat-palette($mat-red);
+                $dark-theme:   mat-dark-theme(
+                                $dark-primary, 
+                                $dark-accent,
+                                $dark-warn);
+                
+                .unicorn-dark-theme {
+                  @include angular-material-theme($dark-theme);
+                }
+                
+.unicorn-dark-theme {
+  @include angular-material-theme($dark-theme);
+}
+
+$first-custom-theme-primary: mat-palette($mat-cyan);
+$first-custom-theme-accent: mat-palette($mat-teal);
+$first-custom-theme-warn: mat-palette($mat-pink,A200, A100, A400);
+$first-theme: mat-dark-theme(
+                $first-custom-theme-primary,
+                $first-custom-theme-accent,
+                $first-custom-theme-warn);
+.first-theme {
+    @include angular-material-theme($first-theme);
+  }
+
+// Define an alternate dark theme.
+$second-custom-theme-primary:  mat-palette($mat-blue);
+$second-custom-theme-accent: mat-palette($mat-green);
+$second-custom-theme-warn:   mat-palette($mat-red);
+$second-theme: mat-dark-theme(
+                $second-custom-theme-primary,
+                $second-custom-theme-accent,
+                $second-custom-theme-warn);
+.second-theme {
+    @include angular-material-theme($second-theme);
+  }
+
+
+  
+  html, body {
+    min-height: 100vh;
+    margin: 0;
+  }

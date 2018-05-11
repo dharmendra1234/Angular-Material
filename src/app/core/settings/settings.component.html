@@ -1,0 +1,12 @@
+<div>
+  <div mat-dialog-content>
+    <mat-select color="warn" placeholder="Select Themes" [(ngModel)]="data.theme ">
+      <mat-option *ngFor="let theme of themes" [value]="theme.value">
+        {{ theme.viewValue }}
+      </mat-option>
+    </mat-select>
+  </div>
+  <div mat-dialog-actions>
+    <button mat-raised-button color="primary" [mat-dialog-close]="data.theme" cdkFocusInitial>Apply Theme</button>
+  </div>
+</div>
