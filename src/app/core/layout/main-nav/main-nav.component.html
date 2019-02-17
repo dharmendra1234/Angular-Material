@@ -2,12 +2,14 @@
   <div [class]="theme">
     <mat-toolbar class="example-header" color="primary">
       <span class="example-fill-remaining-space"></span>
-      <button mat-button routerLink="home">
+      <button mat-icon-button routerLink="home">
         <mat-icon>home</mat-icon>
       </button>
   
-      <button mat-button (click)="onClick">Contact</button>
-      <button mat-button (click)="onClick">Services</button>
+      <button mat-button (click)="onClick">Sign in</button>
+      <button mat-button (click)="onClick">signup</button>
+
+      
       <button mat-icon-button (click)="openThemeDialLog()" aria-label="Toggle menu">
           <mat-icon>settings</mat-icon>
       </button>
@@ -22,10 +24,11 @@
         <mat-nav-list>
           <a mat-list-item routerLink="." *ngFor="let nav of fillerNav">{{nav}}</a>
         </mat-nav-list>
+        <div class="link">
         <a mat-button routerLink="/dashboard">Dashboard</a>
-      
         <a mat-button routerLink="/settings">Services</a>
         <a mat-button routerLink="/contact">Contact</a>
+        </div>
        
       </mat-sidenav>
 

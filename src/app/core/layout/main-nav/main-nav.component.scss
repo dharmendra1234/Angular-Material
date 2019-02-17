@@ -40,3 +40,8 @@ $primary: mat-palette($mat-grey, 400);
 .example-fill-remaining-space {
   flex: 1 1 auto;
 }
+
+.link a {
+  width: 120px;
+display: flex;
+}
