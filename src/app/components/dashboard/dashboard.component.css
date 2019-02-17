@@ -19,3 +19,12 @@
 .dashboard-card-content {
   text-align: center;
 }
+
+img {
+  float: left;
+  background-color: black;
+  margin-right: 10px;
+}
+p{
+  margin-left: 15px;
+}

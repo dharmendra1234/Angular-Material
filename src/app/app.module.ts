@@ -11,9 +11,10 @@ import { ContactComponent } from './components/contact/contact.component';
 import { SettingsComponent } from './core/settings/settings.component';
 import { MainNavComponent } from './core/layout/main-nav/main-nav.component';
 import { LayoutModule } from '@angular/cdk/layout';
-import { MatToolbarModule, MatButtonModule, MatSidenavModule, MatIconModule, MatListModule, MatSelectModule, MatCardModule, MatGridListModule, MatMenuModule, MatChipsModule, MatProgressBarModule, MatFormFieldModule, MatOptionModule, MatInputModule, MatDialogModule } from '@angular/material';
+import { MatToolbarModule, MatButtonModule, MatSidenavModule, MatIconModule, MatListModule, MatSelectModule, MatCardModule, MatGridListModule, MatMenuModule, MatChipsModule, MatProgressBarModule, MatFormFieldModule, MatOptionModule, MatInputModule, MatDialogModule, MatTooltipModule } from '@angular/material';
 import { ReactiveFormsModule, FormsModule } from '@angular/forms';
 import { DashboardComponent } from './components/dashboard/dashboard.component';
+import { SignInComponent } from './components/sign-in/sign-in.component';
 
 
 @NgModule({
@@ -23,7 +24,8 @@ import { DashboardComponent } from './components/dashboard/dashboard.component';
     ContactComponent,
     SettingsComponent,
     MainNavComponent,
-    DashboardComponent  
+    DashboardComponent,
+    SignInComponent  
   ],
   entryComponents: [MainNavComponent, SettingsComponent],
   imports: [
@@ -54,7 +56,8 @@ import { DashboardComponent } from './components/dashboard/dashboard.component';
     FormsModule,
     MatOptionModule,
     ReactiveFormsModule,
-    MatInputModule
+    MatInputModule,
+    MatTooltipModule
   ],
   providers: [],
   bootstrap: [AppComponent]

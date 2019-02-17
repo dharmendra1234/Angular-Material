@@ -15,8 +15,6 @@ export class MainNavComponent {
 
   theme: 'angular-material-theme';
 
-
-
   openThemeDialLog(): void {
     console.log("inside openThemeDialLog" + this.theme);
     let dialogRef = this.dialog.open(SettingsComponent, {
