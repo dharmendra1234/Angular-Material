@@ -30,7 +30,7 @@ const routes: Routes = [
   },
   {
     path: "**",
-    component: ContactComponent
+    component: SignInComponent
   }
 ];
 
