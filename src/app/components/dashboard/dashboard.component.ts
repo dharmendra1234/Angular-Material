@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { ItuneAppleService } from 'src/app/services/itune-apple.service';
+import { ItuneAppleService } from '../../services/itune-apple.service';
 import { Feed } from '../../services/feed';
 import { Users } from '../../services/users';
 
