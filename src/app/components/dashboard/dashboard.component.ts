@@ -1,7 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { ItuneAppleService } from 'src/app/services/itune-apple.service';
-import Feed from 'src/app/services/feed';
-import { Users } from 'src/app/services/users';
+import { Feed } from '../../services/feed';
+import { Users } from '../../services/users';
+
 
 @Component({
   selector: 'components/dashboard',

@@ -1,6 +1,6 @@
 import { Artist } from "./artist";
 
-export default class Feed {
+export  class Feed {
 
     title: string;
     copyright: string;
