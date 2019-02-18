@@ -17,6 +17,7 @@ $candy-app-theme: mat-light-theme(
 $dark-primary: mat-palette($mat-pink, 700);
 $dark-accent: mat-palette($mat-green);
 $dark-warn: mat-palette($mat-red);
+
 $dark-theme: mat-dark-theme($dark-primary, $dark-accent, $dark-warn);
 
 .unicorn-dark-theme {
@@ -52,4 +53,5 @@ html,
 body {
   min-height: 100vh;
   margin: 0;
+  //font-family: Roboto,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
 }

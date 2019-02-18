@@ -16,10 +16,11 @@ $primary: mat-palette($mat-grey, 400);
   top: 0;
   left: 0;
   right: 0;
-}
+  }
 
 .app-sidenav-content {
   justify-items: center;
+  height: 100%;
 }
 
 .example-sidenav {
@@ -35,6 +36,7 @@ $primary: mat-palette($mat-grey, 400);
   bottom: 0;
   left: 0;
   right: 0;
+ 
 }
 
 .example-fill-remaining-space {
@@ -45,3 +47,9 @@ $primary: mat-palette($mat-grey, 400);
   width: 120px;
 display: flex;
 }
+
+mat-sidenav-content{
+  margin: 0;
+  padding:0;
+}
+

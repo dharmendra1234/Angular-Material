@@ -1,0 +1,84 @@
+
+@import "~@angular/material/theming";
+@include mat-core();
+
+$primary: mat-palette($mat-grey, 200);
+$brandColor: #F06D06;
+  .bg-img {
+    background-image: url("https://images.musement.com/cover/0002/49/thumb_148242_cover_header.jpeg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin: 0;
+    padding: 0;
+  
+
+  }
+  
+  /* Add styles to the form container */
+  .login-form {
+position: absolute;
+right: 0;
+margin-top: 10px;
+//margin: 10px;
+width: 220px;
+padding: 8px 20px 12px 37px;
+background-color: mat-color($primary);
+border: 2px solid grey;
+border-radius: 8px;
+color: black;
+  }
+  
+  /* Full-width input fields */
+ .input  {
+    width: 100%;
+   
+    padding: 1px 28px;
+   // padding: 2em 0 0em 0;
+   // margin: 5px 0 22px 0;
+   margin: 1px 0;
+    border: none;
+  
+    right: 1;
+    background: black;
+    //margin-right: 40%;
+
+  }
+  
+  input[type=text]:focus, input[type=password]:focus {
+    background-color: black;
+    outline: none;
+
+  }
+  
+  /* Set a style for the submit button */
+  .btn {
+    //background-color: mat-color($primary);
+    color: white;
+   // padding:13px;
+    border: none;
+    cursor: pointer;
+    width: 94%;
+    opacity: 0.9;
+    height: 10%;
+    margin-bottom: 5px;
+  }
+  
+  .btn:hover {
+    opacity: 1;
+  }
+
+h3{
+    margin-top: 5px;
+}
+
+.mat-form-field-infix {
+    display: block;
+    position: relative;
+    flex: auto;
+    min-width: 0;
+    width: 100%;
+    height: 5%;
+}
