@@ -15,6 +15,7 @@ import { MatToolbarModule, MatButtonModule, MatSidenavModule, MatIconModule, Mat
 import { ReactiveFormsModule, FormsModule } from '@angular/forms';
 import { DashboardComponent } from './components/dashboard/dashboard.component';
 import { SignInComponent } from './components/sign-in/sign-in.component';
+import { HttpClientModule } from '@angular/common/http';
 
 
 @NgModule({
@@ -30,6 +31,7 @@ import { SignInComponent } from './components/sign-in/sign-in.component';
   entryComponents: [MainNavComponent, SettingsComponent],
   imports: [
     BrowserModule,
+    HttpClientModule,
     AppRoutingModule,
     BrowserAnimationsModule,
     LayoutModule,
