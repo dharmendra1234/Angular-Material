@@ -1,29 +1,29 @@
 <div class="grid-container">
   <h1 class="mat-h1">Dashboard</h1>
-  <mat-grid-list cols="2" rowHeight="350px">
-    <mat-grid-tile *ngFor="let card of cards" [colspan]="card.cols" [rowspan]="card.rows">
+  <mat-grid-list cols="3" rowHeight="350px">
+    <mat-grid-tile *ngFor="let card of results" [colspan]="1" [rowspan]="1">
       <mat-card class="dashboard-card">
         <mat-card-header>
-          <mat-card-title>
-            {{card.title}}
-            <button mat-icon-button class="more-button" [matMenuTriggerFor]="menu" aria-label="Toggle menu">
-              <mat-icon>more_vert</mat-icon>
-            </button>
-            <mat-menu #menu="matMenu" xPosition="before">
-              <button mat-menu-item>Expand</button>
-              <button mat-menu-item>Remove</button>
-            </mat-menu>
-          </mat-card-title>
+          
+         <button mat-button class="mat-card-title" color="primary">{{card.artistName}}</button>
+         
         </mat-card-header>
         <mat-card-content class="dashboard-card-content">
         
+          <img mat-card-image src={{card.artworkUrl100}}   style="width:300px;height:200px;margin-left:10px;">
+        
+        
+             <mat-chip-list class="div1">
+                <mat-chip color="primary" selected> {{card.name.length>=16?card.name.substring(0,15):card.name}} </mat-chip>
+                <mat-chip color="warn" selected> {{card.kind}} </mat-chip>
+                <mat-chip color="accent" selected> {{card.releaseDate}} </mat-chip>
+              </mat-chip-list>
+                
+        
 
-          <div *ngIf="card.title=='Card 1'">
-              <img mat-card-image src="https://images.musement.com/cover/0002/49/thumb_148242_cover_header.jpeg" 
-              style="width:300px;height:220px;margin-left:10px;"
-              >
-           <p>
-              New York City comprises 5 boroughs sitting where the Hudson River meets the Atlantic Ocean. At its core is Manhattan, a densely populated borough that’s among the world’s major commercial, financial and cultural centers. Its iconic sites include skyscrapers such as the Empire State Building and sprawling Central Park. Broadway theater is staged in neon-lit Times Square.
+          <!-- <div *ngIf="card.title=='Card 1'">
+              <img mat-card-image src={{card.artworkUrl100}}   style="width:300px;height:220px;margin-left:10px;">
+           <p>              New York City comprises 5 boroughs sitting where the Hudson River meets the Atlantic Ocean. At its core is Manhattan, a densely populated borough that’s among the world’s major commercial, financial and cultural centers. Its iconic sites include skyscrapers such as the Empire State Building and sprawling Central Park. Broadway theater is staged in neon-lit Times Square.
               Population: 8.623 million (2017)
               Mayor: Bill de Blasio
               Local time: Sunday 9:03 AM
@@ -94,7 +94,7 @@ Settled	1624
         Population: 8.623 million (2017)
         Mayor: Bill de Blasio       
      </p>
-  </div>
+  </div> -->
 
         </mat-card-content>
       </mat-card>

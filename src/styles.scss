@@ -5,8 +5,8 @@
 
 //Default theme
 $candy-app-primary: mat-palette($mat-indigo);
-$candy-app-accent: mat-palette($mat-pink, A200, A100, A400);
-$candy-app-warn: mat-palette($mat-pink, A200, A100, A500);
+$candy-app-accent: mat-palette($mat-pink, A200, A100, A400); 
+$candy-app-warn: mat-palette($mat-red);
 $candy-app-theme: mat-light-theme(
   $candy-app-primary,
   $candy-app-accent,
@@ -16,7 +16,7 @@ $candy-app-theme: mat-light-theme(
 
 $dark-primary: mat-palette($mat-pink, 700);
 $dark-accent: mat-palette($mat-green);
-$dark-warn: mat-palette($mat-red);
+$dark-warn: mat-palette($mat-yellow);
 
 $dark-theme: mat-dark-theme($dark-primary, $dark-accent, $dark-warn);
 
@@ -38,8 +38,8 @@ $first-theme: mat-dark-theme(
 
 // Define an alternate dark theme.
 $second-custom-theme-primary: mat-palette($mat-blue);
-$second-custom-theme-accent: mat-palette($mat-green);
-$second-custom-theme-warn: mat-palette($mat-red);
+$second-custom-theme-accent: mat-palette($mat-teal);
+$second-custom-theme-warn: mat-palette($mat-brown);
 $second-theme: mat-dark-theme(
   $second-custom-theme-primary,
   $second-custom-theme-accent,

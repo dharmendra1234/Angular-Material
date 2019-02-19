@@ -1,7 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { ItuneAppleService } from '../../services/itune-apple.service';
-import { Feed } from '../../services/feed';
+import { Feeds } from '../../services/feeds';
 import { Users } from '../../services/users';
+import { Artist } from '../../services/artist';
 
 
 @Component({
@@ -18,23 +19,29 @@ export class DashboardComponent implements OnInit
     { title: 'Card 4', cols: 1, rows: 1 }
   ];
   
-  heroes: Feed[];
+  feeds: Feeds;
+  results: Artist[];
   users: Users[]
 
-  constructor(private heroService: ItuneAppleService) { }
+  constructor(private ituneService: ItuneAppleService) { }
 
   ngOnInit() {
-   // this.getHeroes();
-   this.getUsers();
+    this.getFeeds();
   }
 
-  getHeroes(): void {
-    this.heroService.getHeroes()
-    .subscribe(heroes => this.heroes = heroes);
-  }
+  getFeeds(): void {
+    this.ituneService.getFeeds()
+    .subscribe (
+      feeds=>{
+       console.log(feeds.feed.results);
+       this.results = feeds.feed.results;
+       })
+    }
+    
+  
 
   getUsers(): void {
-    this.heroService.getUsers();
+    this.ituneService.getUsers();
      
   }
 

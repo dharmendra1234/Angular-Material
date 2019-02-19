@@ -6,7 +6,7 @@ import { HttpClient, HttpHeaders } from '@angular/common/http';
 
 import { Observable, of } from 'rxjs';
 import { catchError, map, tap } from 'rxjs/operators';
-import { Feed } from './feed';
+import { Feeds } from './Feeds'
 import { Users } from './users';
 
 const httpOptions = {
@@ -21,13 +21,18 @@ export class ItuneAppleService {
   constructor(
     private http: HttpClient) { }
 
-  /** GET heroes from the server */
-  getHeroes (): Observable<Feed[]> {
-    return this.http.get<Feed[]>(this.heroesUrl)
-      .pipe(  
-      );
-  }
+    getFeeds (): Observable<Feeds> {
+      return this.http.get<Feeds>('/api/');
+      
+    }
 
+  
+  // getFeeds1 () {
+  //   return this.http.get('/api/').subscribe(user=>{
+  //        console.log("tewtwet"+user);
+  //   })
+     
+  // }
 
   getUsers () {
     return this.http.get('/api/posts').subscribe(user=>{

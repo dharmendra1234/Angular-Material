@@ -1,7 +1,7 @@
 
   {
       "/api": {
-        "target": "https://jsonplaceholder.typicode.com",
+        "target":"https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/100/explicit.json",
         "pathRewrite": {
           "^/api": ""
         },

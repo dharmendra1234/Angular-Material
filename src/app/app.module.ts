@@ -59,7 +59,9 @@ import { HttpClientModule } from '@angular/common/http';
     MatOptionModule,
     ReactiveFormsModule,
     MatInputModule,
-    MatTooltipModule
+    MatTooltipModule,
+    MatDialogModule,
+    MatChipsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
