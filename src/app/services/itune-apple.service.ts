@@ -5,7 +5,7 @@ import { Injectable } from '@angular/core';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 
 import { Observable, of } from 'rxjs';
-import { catchError, map, tap } from 'rxjs/operators';
+import { catchError, map, tap,delay } from 'rxjs/operators';
 import { Feeds } from './Feeds'
 import { Users } from './users';
 import { Feed } from './feed';
@@ -26,9 +26,16 @@ export class ItuneAppleService {
     getFeeds (): Observable<Feeds> {
       return this.http.get<Feeds>('/api/');
    }
+   
 
    /** can't bypass proxy for stackblitz so get the data from json */
     getFeedFromJson(): Observable<Feeds> {
      return this.http.get<Feeds>('http://localhost:4200/assets/data/feed.json');
     }
+
+    
+  getDelayedValueObservable() {
+    console.log('testst');
+  return of('delayed value').pipe(delay(9000000000000000));
+}
 }

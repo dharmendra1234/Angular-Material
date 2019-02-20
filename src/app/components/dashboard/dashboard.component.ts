@@ -26,6 +26,7 @@ export class DashboardComponent implements OnInit
   constructor(private ituneService: ItuneAppleService) { }
 
   ngOnInit() {
+    this.ituneService.getDelayedValueObservable();
   this.getFeeds();
   }
 
@@ -50,13 +51,6 @@ export class DashboardComponent implements OnInit
 
     }
     
-  
-
-  getUsers(): void {
-  //  this.ituneService.getUsers();
-     
-  }
-
 }
 
 
