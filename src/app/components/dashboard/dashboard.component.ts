@@ -26,7 +26,7 @@ export class DashboardComponent implements OnInit
   constructor(private ituneService: ItuneAppleService) { }
 
   ngOnInit() {
-    this.getFeeds();
+  this.getFeeds();
   }
 
   getFeeds(): void {
@@ -34,14 +34,26 @@ export class DashboardComponent implements OnInit
     .subscribe (
       feeds=>{
        console.log(feeds.feed.results);
-       this.results = feeds.feed.results;
+     return  this.results = feeds.feed.results;
        })
+    }
+
+    ngDoCheck(){
+      if(this.results==null){
+        this.ituneService.getFeedFromJson()
+        .subscribe (
+          feeds=>{
+           console.log(feeds.feed.results);
+         return  this.results = feeds.feed.results;
+           })
+      }
+
     }
     
   
 
   getUsers(): void {
-    this.ituneService.getUsers();
+  //  this.ituneService.getUsers();
      
   }
 

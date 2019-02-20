@@ -1,0 +1,2844 @@
+{
+  "feed": {
+    "title": "Coming Soon",
+    "id": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/100/explicit.json/",
+    "author": {
+      "name": "iTunes Store",
+      "uri": "http://wwww.apple.com/us/itunes/"
+    },
+    "links": [
+      {
+        "self": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/100/explicit.json/"
+      },
+      {
+        "alternate": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewRoom?fcId=1396220241\u0026app=music"
+      }
+    ],
+    "copyright": "Copyright © 2018 Apple Inc. All rights reserved.",
+    "country": "us",
+    "icon": "http://itunes.apple.com/favicon.ico",
+    "updated": "2019-02-19T01:41:32.000-08:00",
+    "results": [
+      {
+        "artistName": "Sara Bareilles",
+        "id": "1452354896",
+        "releaseDate": "2019-04-05",
+        "name": "Amidst the Chaos",
+        "kind": "album",
+        "copyright": "℗ 2019 Epic Records, a division of Sony Music Entertainment",
+        "artistId": "64398046",
+        "artistUrl": "https://itunes.apple.com/us/artist/sara-bareilles/64398046?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/91/f0/95/91f09528-2155-6a1d-45c0-0208e8efe059/886447489642.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/amidst-the-chaos/1452354896?app=music"
+      },
+      {
+        "artistName": "Billie Eilish",
+        "id": "1450695723",
+        "releaseDate": "2019-03-29",
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "kind": "album",
+        "copyright": "℗ 2019 Darkroom/Interscope Records",
+        "artistId": "1065981054",
+        "artistUrl": "https://itunes.apple.com/us/artist/billie-eilish/1065981054?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a7/31/24/a731244c-e065-2f44-63a2-d15b6b27fefa/00602577427657.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/when-we-all-fall-asleep-where-do-we-go/1450695723?app=music"
+      },
+      {
+        "artistName": "Gary Clark Jr.",
+        "id": "1447538299",
+        "releaseDate": "2019-03-01",
+        "name": "This Land",
+        "kind": "album",
+        "copyright": "℗ 2019 Warner Bros. Records Inc.",
+        "artistId": "266463936",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/us/artist/gary-clark-jr/266463936?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/49/b1/57/49b15771-38c4-e54f-0971-3719826b9417/093624902263.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/this-land/1447538299?app=music"
+      },
+      {
+        "artistName": "Hozier",
+        "id": "1448967234",
+        "releaseDate": "2019-03-01",
+        "name": "Wasteland, Baby!",
+        "kind": "album",
+        "copyright": "℗ 2019 Rubyworks Ltd., under license to Columbia Records, a Division of Sony Music Entertainment",
+        "artistId": "342260741",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/us/artist/hozier/342260741?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cc/4f/2e/cc4f2e39-c807-5158-7abf-ccaf4acbdf7b/886447495391.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "1004",
+            "name": "Indie Rock",
+            "url": "https://itunes.apple.com/us/genre/id1004"
+          },
+          {
+            "genreId": "100020",
+            "name": "Indie Pop",
+            "url": "https://itunes.apple.com/us/genre/id100020"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/wasteland-baby/1448967234?app=music"
+      },
+      {
+        "artistName": "Reba McEntire",
+        "id": "1451555166",
+        "releaseDate": "2019-04-05",
+        "name": "Stronger Than the Truth",
+        "kind": "album",
+        "copyright": "℗ 2019 Rockin' R Records, LLC. under exclusive license to Big Machine Label Group, LLC.",
+        "artistId": "48529",
+        "artistUrl": "https://itunes.apple.com/us/artist/reba-mcentire/48529?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/44/d6/cd/44d6cd3d-dd87-3e17-e5c3-efb98062828c/00843930039821.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "6",
+            "name": "Country",
+            "url": "https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/stronger-than-the-truth/1451555166?app=music"
+      },
+      {
+        "artistName": "Ben Platt",
+        "id": "1450673833",
+        "releaseDate": "2019-03-29",
+        "name": "Sing to Me Instead",
+        "kind": "album",
+        "copyright": "℗ 2019 Atlantic Recording Corporation for the United States and WEA International for the world outside of the United States. A Warner Music Group Company.",
+        "artistId": "568624185",
+        "artistUrl": "https://itunes.apple.com/us/artist/ben-platt/568624185?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/e7/20/a9/e720a90c-923c-016f-91f3-fe015a453979/075679854582.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/sing-to-me-instead/1450673833?app=music"
+      },
+      {
+        "artistName": "Lizzo",
+        "id": "1452318774",
+        "releaseDate": "2019-04-19",
+        "name": "Cuz I Love You",
+        "kind": "album",
+        "copyright": "℗ 2019 Nice Life Recording Company and Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States.",
+        "artistId": "472949623",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/us/artist/lizzo/472949623?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/b1/c8/00/b1c800ea-c122-f7c1-af78-734553d08c2f/075679853585.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "15",
+            "name": "R\u0026B/Soul",
+            "url": "https://itunes.apple.com/us/genre/id15"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/cuz-i-love-you/1452318774?app=music"
+      },
+      {
+        "artistName": "Maren Morris",
+        "id": "1451230484",
+        "releaseDate": "2019-03-08",
+        "name": "GIRL",
+        "kind": "album",
+        "copyright": "℗ 2019 Sony Music Entertainment. All rights reserved.",
+        "artistId": "262260873",
+        "artistUrl": "https://itunes.apple.com/us/artist/maren-morris/262260873?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ab/24/5a/ab245a92-79a8-3d66-4fff-a5116908bce8/886447532270.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "6",
+            "name": "Country",
+            "url": "https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/girl/1451230484?app=music"
+      },
+      {
+        "artistName": "Dream Theater",
+        "id": "1445099485",
+        "releaseDate": "2019-02-22",
+        "name": "Distance Over Time (Bonus Track Version)",
+        "kind": "album",
+        "copyright": "℗ 2019 Ytse Jams, Inc., under exclusive license to InsideOutMusic",
+        "artistId": "730091",
+        "artistUrl": "https://itunes.apple.com/us/artist/dream-theater/730091?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/67/91/d5/6791d57d-fae3-846d-e7a7-064c14393a54/886447400753.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1153",
+            "name": "Metal",
+            "url": "https://itunes.apple.com/us/genre/id1153"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/distance-over-time-bonus-track-version/1445099485?app=music"
+      },
+      {
+        "artistName": "Aaron Lewis",
+        "id": "1450675678",
+        "releaseDate": "2019-04-12",
+        "name": "State I'm In",
+        "kind": "album",
+        "copyright": "℗ 2019 Big Machine Label Group, LLC",
+        "artistId": "413422387",
+        "artistUrl": "https://itunes.apple.com/us/artist/aaron-lewis/413422387?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/40/74/79/407479e1-0e10-669e-49d2-d861c168ed39/00843930038831.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "6",
+            "name": "Country",
+            "url": "https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "1033",
+            "name": "Alternative Country",
+            "url": "https://itunes.apple.com/us/genre/id1033"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/state-im-in/1450675678?app=music"
+      },
+      {
+        "artistName": "Kehlani",
+        "id": "1452002220",
+        "releaseDate": "2019-02-22",
+        "name": "While We Wait",
+        "kind": "album",
+        "copyright": "℗ 2019 TSNMI / Atlantic Recording Corporation for the United States and WEA International for the world outside of the United States",
+        "artistId": "690126399",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/us/artist/kehlani/690126399?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/a0/6a/c3/a06ac3d7-0520-ac6b-d582-cb3789acb31a/075679855497.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R\u0026B/Soul",
+            "url": "https://itunes.apple.com/us/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/while-we-wait/1452002220?app=music"
+      },
+      {
+        "artistName": "Cage the Elephant",
+        "id": "1450676554",
+        "releaseDate": "2019-04-19",
+        "name": "Social Cues",
+        "kind": "album",
+        "copyright": "℗ 2019 RCA Records, a division of Sony Music Entertainment",
+        "artistId": "267957933",
+        "artistUrl": "https://itunes.apple.com/us/artist/cage-the-elephant/267957933?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/a3/6b/39/a36b39e2-62ea-aa65-f973-19700aabe732/886447488812.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "1004",
+            "name": "Indie Rock",
+            "url": "https://itunes.apple.com/us/genre/id1004"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/social-cues/1450676554?app=music"
+      },
+      {
+        "artistName": "The Claypool Lennon Delirium",
+        "id": "1439279211",
+        "releaseDate": "2019-02-22",
+        "name": "South of Reality",
+        "kind": "album",
+        "copyright": "℗ 2019 Prawn Song Records \u0026 Chimera Music under exclusive license in North America to ATO Records, LLC",
+        "artistId": "1092250261",
+        "artistUrl": "https://itunes.apple.com/us/artist/the-claypool-lennon-delirium/1092250261?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/fc/fc/41/fcfc414f-2793-b687-1d6d-3e1a8c2233ca/00880882343453.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId": "1004",
+            "name": "Indie Rock",
+            "url": "https://itunes.apple.com/us/genre/id1004"
+          },
+          {
+            "genreId": "1155",
+            "name": "Prog-Rock/Art Rock",
+            "url": "https://itunes.apple.com/us/genre/id1155"
+          },
+          {
+            "genreId": "1156",
+            "name": "Psychedelic",
+            "url": "https://itunes.apple.com/us/genre/id1156"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/south-of-reality/1439279211?app=music"
+      },
+      {
+        "artistName": "Badflower",
+        "id": "1440357164",
+        "releaseDate": "2019-02-22",
+        "name": "OK, I'M SICK",
+        "kind": "album",
+        "copyright": "℗ 2019 Big Machine Records / John Varvatos Records",
+        "artistId": "610204704",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/us/artist/badflower/610204704?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/bf/6a/5b/bf6a5b5b-ff11-a2b4-818a-8733191b057b/00843930038190.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId": "1152",
+            "name": "Hard Rock",
+            "url": "https://itunes.apple.com/us/genre/id1152"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/ok-im-sick/1440357164?app=music"
+      },
+      {
+        "artistName": "Tom Petty \u0026 The Heartbreakers",
+        "id": "1435835430",
+        "releaseDate": "2019-02-01",
+        "name": "The Best of Everything - The Definitive Career Spanning Hits Collection 1976-2016",
+        "kind": "album",
+        "copyright": "A Geffen Records release; This Compilation ℗ 2018 UMG Recordings, Inc.",
+        "artistId": "161527",
+        "artistUrl": "https://itunes.apple.com/us/artist/tom-petty-the-heartbreakers/161527?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/12/d9/2e/12d92e91-a51b-18fe-f75c-a984a5bc8c44/00602577036248.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/best-everything-definitive-career-spanning-hits-collection/1435835430?app=music"
+      },
+      {
+        "artistName": "Foals",
+        "id": "1449154453",
+        "releaseDate": "2019-03-08",
+        "name": "Part 1 Everything Not Saved Will Be Lost",
+        "kind": "album",
+        "copyright": "℗ 2019 Foals under exclusive licence to Warner Music UK Limited",
+        "artistId": "192738057",
+        "artistUrl": "https://itunes.apple.com/us/artist/foals/192738057?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/57/0e/11/570e11bc-b91e-b753-a6f4-acc7944ecda2/190295483098.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/part-1-everything-not-saved-will-be-lost/1449154453?app=music"
+      },
+      {
+        "artistName": "Catfish and the Bottlemen",
+        "id": "1448682255",
+        "releaseDate": "2019-04-26",
+        "name": "The Balance",
+        "kind": "album",
+        "copyright": "An Island Records Release; ℗ 2019 Universal Music Operations Limited",
+        "artistId": "397781084",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/us/artist/catfish-and-the-bottlemen/397781084?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/51/6c/8b/516c8b9a-60b3-3033-1967-978f9a28f3a0/00602577376009.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId": "1004",
+            "name": "Indie Rock",
+            "url": "https://itunes.apple.com/us/genre/id1004"
+          },
+          {
+            "genreId": "1006",
+            "name": "Punk",
+            "url": "https://itunes.apple.com/us/genre/id1006"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/the-balance/1448682255?app=music"
+      },
+      {
+        "artistName": "Dido",
+        "id": "1440916012",
+        "releaseDate": "2019-03-08",
+        "name": "Still on My Mind",
+        "kind": "album",
+        "copyright": "℗ 2019 Dido under exclusive licence to BMG Rights Management (UK) Limited",
+        "artistId": "20646",
+        "artistUrl": "https://itunes.apple.com/us/artist/dido/20646?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/2c/90/90/2c909077-7804-17af-68da-768a6778813f/4050538455847.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/still-on-my-mind/1440916012?app=music"
+      },
+      {
+        "artistName": "LOCASH",
+        "id": "1450537592",
+        "releaseDate": "2019-03-29",
+        "name": "Brothers",
+        "kind": "album",
+        "copyright": "℗ 2019 This Is Hit, Inc. d/b/a Wheelhouse Records",
+        "artistId": "377628448",
+        "artistUrl": "https://itunes.apple.com/us/artist/locash/377628448?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/63/f9/65/63f96516-dec3-dd44-915d-b69727490f79/4050538476088.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "6",
+            "name": "Country",
+            "url": "https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/brothers/1450537592?app=music"
+      },
+      {
+        "artistName": "Weezer",
+        "id": "1442329821",
+        "releaseDate": "2019-03-01",
+        "name": "Weezer (Black Album)",
+        "kind": "album",
+        "copyright": "℗ 2019 Weezer under exclusive license to Crush Music / Atlantic Recording Corporation for the United States and Crush Music / WEA International Inc. for the world excluding the United States. A Warner Music Company.",
+        "artistId": "115234",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/us/artist/weezer/115234?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/b7/9e/89/b79e8991-c84f-d7e5-cb77-c3f7913faf3f/075679858115.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/weezer-black-album/1442329821?app=music"
+      },
+      {
+        "artistName": "Queensrÿche",
+        "id": "1441687561",
+        "releaseDate": "2019-03-01",
+        "name": "The Verdict",
+        "kind": "album",
+        "copyright": "℗ 2019 Queensryche Holdings LLC, a DE LLC, under exclusive license to Century Media Records Ltd.",
+        "artistId": "165176",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/us/artist/queensr%C3%BFche/165176?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/04/85/4f/04854f9e-ca3e-553b-eb31-e497f7f6fa28/886447429198.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1153",
+            "name": "Metal",
+            "url": "https://itunes.apple.com/us/genre/id1153"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/the-verdict/1441687561?app=music"
+      },
+      {
+        "artistName": "David Gray",
+        "id": "1438523943",
+        "releaseDate": "2019-03-08",
+        "name": "Gold in a Brass Age",
+        "kind": "album",
+        "copyright": "℗ 2018 iht Records, under exclusive license to AWAL Recordings, Ltd",
+        "artistId": "316381",
+        "artistUrl": "https://itunes.apple.com/us/artist/david-gray/316381?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/56/e2/a5/56e2a501-411b-649d-3636-61ca5b1c81b4/5056167110712_1.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/gold-in-a-brass-age/1438523943?app=music"
+      },
+      {
+        "artistName": "Mark Morton",
+        "id": "1442548223",
+        "releaseDate": "2019-03-01",
+        "name": "Anesthetic",
+        "kind": "album",
+        "copyright": "A Spinefarm Records/WPP Records release; ℗ 2019 WPP Records, under exclusive license to Universal Music Operations Limited",
+        "artistId": "1445459220",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/us/artist/mark-morton/1445459220?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/16/d5/90/16d5903a-864e-738d-e1b6-20437c057a18/00602577291531.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1153",
+            "name": "Metal",
+            "url": "https://itunes.apple.com/us/genre/id1153"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/anesthetic/1442548223?app=music"
+      },
+      {
+        "artistName": "Tesla",
+        "id": "1445190271",
+        "releaseDate": "2019-03-08",
+        "name": "Shock",
+        "kind": "album",
+        "copyright": "A Universal Music Enterprises Release; ℗ 2019 Tesla Electric Company Recordings, Inc., under exclusive license to UMG Recordings, Inc.",
+        "artistId": "113592",
+        "artistUrl": "https://itunes.apple.com/us/artist/tesla/113592?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/04/36/b9/0436b914-ed52-15e1-342c-59f0d1671af7/00602577143731.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/shock/1445190271?app=music"
+      },
+      {
+        "artistName": "The Chemical Brothers",
+        "id": "1450389806",
+        "releaseDate": "2019-04-12",
+        "name": "No Geography",
+        "kind": "album",
+        "copyright": "A Virgin EMI Records release; ℗ 2019 The Chemical Brothers, under exclusive license to Universal Music Operations Limited",
+        "artistId": "3726283",
+        "artistUrl": "https://itunes.apple.com/us/artist/the-chemical-brothers/3726283?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/2d/e1/5a/2de15a9f-f9ed-e048-1dc8-a35e845b9982/00602577080241.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "7",
+            "name": "Electronic",
+            "url": "https://itunes.apple.com/us/genre/id7"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/no-geography/1450389806?app=music"
+      },
+      {
+        "artistName": "Snarky Puppy",
+        "id": "1448116436",
+        "releaseDate": "2019-03-15",
+        "name": "Immigrance",
+        "kind": "album",
+        "copyright": "℗ 2019 GroundUP Music",
+        "artistId": "152987454",
+        "artistUrl": "https://itunes.apple.com/us/artist/snarky-puppy/152987454?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/25/3c/e0/253ce056-ba50-d4e8-48db-70177f25b232/193483196244.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1110",
+            "name": "Fusion",
+            "url": "https://itunes.apple.com/us/genre/id1110"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "11",
+            "name": "Jazz",
+            "url": "https://itunes.apple.com/us/genre/id11"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/immigrance/1448116436?app=music"
+      },
+      {
+        "artistName": "Hans Zimmer",
+        "id": "1452333408",
+        "releaseDate": "2001-04-17",
+        "name": "The World of Hans Zimmer - A Symphonic Celebration (Live)",
+        "kind": "album",
+        "copyright": "℗ 2019 Sony Music Entertainment Germany GmbH",
+        "artistId": "111203",
+        "artistUrl": "https://itunes.apple.com/us/artist/hans-zimmer/111203?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/85/88/cd/8588cd53-b7e5-9cc6-dc29-fbf66d39ce44/886447293485.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "5",
+            "name": "Classical",
+            "url": "https://itunes.apple.com/us/genre/id5"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "16",
+            "name": "Soundtrack",
+            "url": "https://itunes.apple.com/us/genre/id16"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/the-world-of-hans-zimmer-a-symphonic-celebration-live/1452333408?app=music"
+      },
+      {
+        "artistName": "Christian Scott aTunde Adjuah",
+        "id": "1450573373",
+        "releaseDate": "2019-03-22",
+        "name": "Ancestral Recall",
+        "kind": "album",
+        "copyright": "℗ 2019 Stretch Music, LLC. / Ropeadope",
+        "artistId": "1024394280",
+        "artistUrl": "https://itunes.apple.com/us/artist/christian-scott-atunde-adjuah/1024394280?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/24/09/c0/2409c061-16b8-93e8-04f1-8ca4e701fec2/4115.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "11",
+            "name": "Jazz",
+            "url": "https://itunes.apple.com/us/genre/id11"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "19",
+            "name": "World",
+            "url": "https://itunes.apple.com/us/genre/id19"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/ancestral-recall/1450573373?app=music"
+      },
+      {
+        "artistName": "Last In Line",
+        "id": "1441809608",
+        "releaseDate": "2019-02-22",
+        "name": "II",
+        "kind": "album",
+        "copyright": "℗ 2019 Frontiers Records",
+        "artistId": "41734469",
+        "artistUrl": "https://itunes.apple.com/us/artist/last-in-line/41734469?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/ec/80/b8/ec80b8d8-c68c-d4bf-9d01-0585d12c1e42/193483136066.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1153",
+            "name": "Metal",
+            "url": "https://itunes.apple.com/us/genre/id1153"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId": "1152",
+            "name": "Hard Rock",
+            "url": "https://itunes.apple.com/us/genre/id1152"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/ii/1441809608?app=music"
+      },
+      {
+        "artistName": "SYML",
+        "id": "1451682288",
+        "releaseDate": "2019-05-03",
+        "name": "Syml",
+        "kind": "album",
+        "copyright": "℗ 2019 SYML under exclusive license to Nettwerk Music Group Inc.",
+        "artistId": "1078016819",
+        "artistUrl": "https://itunes.apple.com/us/artist/syml/1078016819?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/36/76/e8/3676e8eb-b6bc-bdc0-fa62-5d99b1577462/067003118651.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/syml/1451682288?app=music"
+      },
+      {
+        "artistName": "Buckcherry",
+        "id": "1446074052",
+        "releaseDate": "2019-03-08",
+        "name": "Warpaint",
+        "kind": "album",
+        "copyright": "℗ 2019 The Century Family, Inc.",
+        "artistId": "3444975",
+        "artistUrl": "https://itunes.apple.com/us/artist/buckcherry/3444975?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/5d/25/fc/5d25fc71-6766-1fc5-79a4-ca1317f405eb/886447369494.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/warpaint/1446074052?app=music"
+      },
+      {
+        "artistName": "Citizen Cope",
+        "id": "1441373318",
+        "releaseDate": "2019-03-01",
+        "name": "Heroin and Helicopters",
+        "kind": "album",
+        "copyright": "℗ 2019 RainWater Recordings marketed and distributed by Thirty Tigers",
+        "artistId": "3446106",
+        "artistUrl": "https://itunes.apple.com/us/artist/citizen-cope/3446106?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/e2/a7/2e/e2a72e5a-f3f4-d65f-2b89-8f865ec3425a/193483154275.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1065",
+            "name": "Folk-Rock",
+            "url": "https://itunes.apple.com/us/genre/id1065"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "10",
+            "name": "Singer/Songwriter",
+            "url": "https://itunes.apple.com/us/genre/id10"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/heroin-and-helicopters/1441373318?app=music"
+      },
+      {
+        "artistName": "GRiZ",
+        "id": "1449345392",
+        "releaseDate": "2019-04-05",
+        "name": "Ride Waves",
+        "kind": "album",
+        "copyright": "℗ 2019 GRiZ",
+        "artistId": "980722716",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/us/artist/griz/980722716?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/8c/79/68/8c7968d0-c4ca-1e01-5ed7-8fe06f41182c/192641247729_Cover.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "7",
+            "name": "Electronic",
+            "url": "https://itunes.apple.com/us/genre/id7"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "1058",
+            "name": "Electronica",
+            "url": "https://itunes.apple.com/us/genre/id1058"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/ride-waves/1449345392?app=music"
+      },
+      {
+        "artistName": "Shovels \u0026 Rope",
+        "id": "1448543683",
+        "releaseDate": "2019-04-12",
+        "name": "By Blood",
+        "kind": "album",
+        "copyright": "℗ 2019 Dualtone Music Group, Inc.",
+        "artistId": "524529368",
+        "artistUrl": "https://itunes.apple.com/us/artist/shovels-rope/524529368?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/00/9a/ba/009abab7-3bb9-5f6a-18ec-f3e74b2bc84c/SR_BYBLOOD_DIGITALCOVER_copy.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "10",
+            "name": "Singer/Songwriter",
+            "url": "https://itunes.apple.com/us/genre/id10"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/by-blood/1448543683?app=music"
+      },
+      {
+        "artistName": "Intocable",
+        "id": "1447428783",
+        "releaseDate": "2019-03-15",
+        "name": "Percepción",
+        "kind": "album",
+        "copyright": "Universal Music Latin Entertainment; ℗ 2019 Intocable, LLC, Exclusive License to UMG Recordings, Inc.",
+        "artistId": "549010",
+        "artistUrl": "https://itunes.apple.com/us/artist/intocable/549010?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/80/41/ff/8041ff11-8a57-2929-5d17-b70c318fbe5a/00602577068379.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1123",
+            "name": "Música Mexicana",
+            "url": "https://itunes.apple.com/us/genre/id1123"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "12",
+            "name": "Latino",
+            "url": "https://itunes.apple.com/us/genre/id12"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/percepci%C3%B3n/1447428783?app=music"
+      },
+      {
+        "artistName": "La Dispute",
+        "id": "1444059707",
+        "releaseDate": "2019-03-22",
+        "name": "Panorama",
+        "kind": "album",
+        "copyright": "℗ 2019 Epitaph",
+        "artistId": "151818067",
+        "artistUrl": "https://itunes.apple.com/us/artist/la-dispute/151818067?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/ac/c3/7b/acc37bf8-b5dc-fcdd-9507-ab9dcdfa446a/045778764402.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/panorama/1444059707?app=music"
+      },
+      {
+        "artistName": "The Cactus Blossoms",
+        "id": "1441712255",
+        "releaseDate": "2019-03-01",
+        "name": "Easy Way",
+        "kind": "album",
+        "copyright": "℗ 2019 Walkie Talkie Records",
+        "artistId": "514753852",
+        "artistUrl": "https://itunes.apple.com/us/artist/the-cactus-blossoms/514753852?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/25/3a/3a/253a3a63-7be5-adb2-9bfc-c13079aee905/dj.bcvjfkcc.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1034",
+            "name": "Americana",
+            "url": "https://itunes.apple.com/us/genre/id1034"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "6",
+            "name": "Country",
+            "url": "https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId": "1289",
+            "name": "Folk",
+            "url": "https://itunes.apple.com/us/genre/id1289"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/easy-way/1441712255?app=music"
+      },
+      {
+        "artistName": "Cameron Carpenter",
+        "id": "1451649188",
+        "releaseDate": "2019-03-15",
+        "name": "Rachmaninoff: Rhapsody on a Theme of Paganini \u0026  Poulenc: Organ Concerto",
+        "kind": "album",
+        "copyright": "℗ 2019 Sony Music Entertainment",
+        "artistId": "286621134",
+        "artistUrl": "https://itunes.apple.com/us/artist/cameron-carpenter/286621134?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/7b/c6/bd/7bc6bd04-b20e-7fc1-1dd7-43968f293098/886446172279.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "5",
+            "name": "Classical",
+            "url": "https://itunes.apple.com/us/genre/id5"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/rachmaninoff-rhapsody-on-theme-paganini-poulenc-organ/1451649188?app=music"
+      },
+      {
+        "artistName": "VEDO",
+        "id": "1449908601",
+        "releaseDate": "2019-03-01",
+        "name": "VEDO",
+        "kind": "album",
+        "copyright": "℗ 2019 New Wav Music Group, LLC/Island Prolific, LLC",
+        "artistId": "267769510",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/us/artist/vedo/267769510?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/38/34/e1/3834e15e-a65d-8ef1-a048-06a85f5b4730/193483298856.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R\u0026B/Soul",
+            "url": "https://itunes.apple.com/us/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/vedo/1449908601?app=music"
+      },
+      {
+        "artistName": "Jai Wolf",
+        "id": "1448558317",
+        "releaseDate": "2019-04-05",
+        "name": "The Cure to Loneliness",
+        "kind": "album",
+        "copyright": "℗ 2019 Mom+Pop",
+        "artistId": "896670451",
+        "artistUrl": "https://itunes.apple.com/us/artist/jai-wolf/896670451?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/18/83/a9/1883a95b-14ef-78b5-4881-f3d5dfe9948c/3Kx3K.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "7",
+            "name": "Electronic",
+            "url": "https://itunes.apple.com/us/genre/id7"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/the-cure-to-loneliness/1448558317?app=music"
+      },
+      {
+        "artistName": "Delain",
+        "id": "1448293114",
+        "releaseDate": "2019-02-22",
+        "name": "Hunter's Moon",
+        "kind": "album",
+        "copyright": "℗ 2019 Napalm Records Handels Gmbh",
+        "artistId": "184414833",
+        "artistUrl": "https://itunes.apple.com/us/artist/delain/184414833?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/a8/b1/79/a8b17973-1720-48ae-c885-c14064fa3317/840588119332.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1153",
+            "name": "Metal",
+            "url": "https://itunes.apple.com/us/genre/id1153"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/hunters-moon/1448293114?app=music"
+      },
+      {
+        "artistName": "Flight of the Conchords",
+        "id": "1447320701",
+        "releaseDate": "2019-03-08",
+        "name": "Live in London",
+        "kind": "album",
+        "copyright": "℗ 2019 Sub Pop Records",
+        "artistId": "260747279",
+        "artistUrl": "https://itunes.apple.com/us/artist/flight-of-the-conchords/260747279?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8a/2d/84/8a2d8432-f625-f371-d3bc-3909de82972d/FOTC_LiveInLondon_3600x3600_300.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "3",
+            "name": "Comedy",
+            "url": "https://itunes.apple.com/us/genre/id3"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/live-in-london/1447320701?app=music"
+      },
+      {
+        "artistName": "Jamie Lawson",
+        "id": "1451632263",
+        "releaseDate": "2019-03-29",
+        "name": "The Years In Between",
+        "kind": "album",
+        "copyright": "℗ 2019 Gingerbread Man Records.",
+        "artistId": "156278636",
+        "artistUrl": "https://itunes.apple.com/us/artist/jamie-lawson/156278636?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/63/3d/05/633d05fb-8b75-490b-f2a0-f09854fd5732/190295471101.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "10",
+            "name": "Singer/Songwriter",
+            "url": "https://itunes.apple.com/us/genre/id10"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/the-years-in-between/1451632263?app=music"
+      },
+      {
+        "artistName": "Van Morrison",
+        "id": "1447685292",
+        "releaseDate": "1997-03-04",
+        "name": "The Healing Game (Deluxe Edition)",
+        "kind": "album",
+        "copyright": "℗ This compilation (P) 2019 Exile Productions, Ltd. under exclusive license to Sony Music Entertainment",
+        "artistId": "253638",
+        "artistUrl": "https://itunes.apple.com/us/artist/van-morrison/253638?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/09/c1/9c/09c19caf-f413-9402-b09f-fbb1b4c6e14a/886446562421.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "15",
+            "name": "R\u0026B/Soul",
+            "url": "https://itunes.apple.com/us/genre/id15"
+          },
+          {
+            "genreId": "10",
+            "name": "Singer/Songwriter",
+            "url": "https://itunes.apple.com/us/genre/id10"
+          },
+          {
+            "genreId": "1065",
+            "name": "Folk-Rock",
+            "url": "https://itunes.apple.com/us/genre/id1065"
+          },
+          {
+            "genreId": "1143",
+            "name": "Soul",
+            "url": "https://itunes.apple.com/us/genre/id1143"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/the-healing-game-deluxe-edition/1447685292?app=music"
+      },
+      {
+        "artistName": "The Cinematic Orchestra",
+        "id": "1447538767",
+        "releaseDate": "2019-03-15",
+        "name": "To Believe",
+        "kind": "album",
+        "copyright": "℗ 2019 Ninja Tune under exclusive license to Domino Recording Co Ltd",
+        "artistId": "3631576",
+        "artistUrl": "https://itunes.apple.com/us/artist/the-cinematic-orchestra/3631576?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/b1/c5/7d/b1c57d9e-4abc-2012-8d78-c1d3408c6025/887828045662.png/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "7",
+            "name": "Electronic",
+            "url": "https://itunes.apple.com/us/genre/id7"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/to-believe/1447538767?app=music"
+      },
+      {
+        "artistName": "Lauren Jenkins",
+        "id": "1441323057",
+        "releaseDate": "2019-03-15",
+        "name": "No Saint",
+        "kind": "album",
+        "copyright": "℗ 2019 Big Machine Label Group, LLC",
+        "artistId": "890139425",
+        "artistUrl": "https://itunes.apple.com/us/artist/lauren-jenkins/890139425?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/83/53/b9/8353b9c5-f42d-32f7-2d6d-87fc880ebdb6/00843930037698.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "6",
+            "name": "Country",
+            "url": "https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/no-saint/1441323057?app=music"
+      },
+      {
+        "artistName": "Helado Negro",
+        "id": "1441162701",
+        "releaseDate": "2019-03-08",
+        "name": "This Is How You Smile",
+        "kind": "album",
+        "copyright": "℗ 2019 RVNG Intl.",
+        "artistId": "321238719",
+        "artistUrl": "https://itunes.apple.com/us/artist/helado-negro/321238719?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/b8/f3/82/b8f382a3-1a3a-c047-2171-a988cf333764/747742382499.png/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "7",
+            "name": "Electronic",
+            "url": "https://itunes.apple.com/us/genre/id7"
+          },
+          {
+            "genreId": "12",
+            "name": "Latino",
+            "url": "https://itunes.apple.com/us/genre/id12"
+          },
+          {
+            "genreId": "100020",
+            "name": "Indie Pop",
+            "url": "https://itunes.apple.com/us/genre/id100020"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/this-is-how-you-smile/1441162701?app=music"
+      },
+      {
+        "artistName": "Khatia Buniatishvili",
+        "id": "1452125184",
+        "releaseDate": "2019-03-22",
+        "name": "Schubert",
+        "kind": "album",
+        "copyright": "℗ 2019 Sony Music Entertainment",
+        "artistId": "384871592",
+        "artistUrl": "https://itunes.apple.com/us/artist/khatia-buniatishvili/384871592?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/56/0f/b2/560fb2f0-6aff-d5e1-d1bf-c8d229d0f410/886446987033.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "5",
+            "name": "Classical",
+            "url": "https://itunes.apple.com/us/genre/id5"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "1031",
+            "name": "Romantic Era",
+            "url": "https://itunes.apple.com/us/genre/id1031"
+          },
+          {
+            "genreId": "100010",
+            "name": "Piano",
+            "url": "https://itunes.apple.com/us/genre/id100010"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/schubert/1452125184?app=music"
+      },
+      {
+        "artistName": "FONTAINES D.C.",
+        "id": "1451480951",
+        "releaseDate": "2019-04-12",
+        "name": "Dogrel",
+        "kind": "album",
+        "copyright": "℗ 2019 Partisan Records",
+        "artistId": "1341828470",
+        "artistUrl": "https://itunes.apple.com/us/artist/fontaines-d-c/1341828470?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/08/9e/7f/089e7f4c-db16-578f-d965-fd4714a9cf9f/720841216605.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "1006",
+            "name": "Punk",
+            "url": "https://itunes.apple.com/us/genre/id1006"
+          },
+          {
+            "genreId": "1004",
+            "name": "Indie Rock",
+            "url": "https://itunes.apple.com/us/genre/id1004"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/dogrel/1451480951?app=music"
+      },
+      {
+        "artistName": "Eric Bellinger",
+        "id": "1450860375",
+        "releaseDate": "2019-02-22",
+        "name": "The Rebirth 2",
+        "kind": "album",
+        "copyright": "℗ 2019 YFS (Your Favorite Song) / EMPIRE",
+        "artistId": "395826107",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/us/artist/eric-bellinger/395826107?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/78/1b/00/781b00ed-3e0e-114d-2279-04ded5e62402/888915818879_cover.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R\u0026B/Soul",
+            "url": "https://itunes.apple.com/us/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/us/genre/id18"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/the-rebirth-2/1450860375?app=music"
+      },
+      {
+        "artistName": "A.A. Bondy",
+        "id": "1450556898",
+        "releaseDate": "2019-05-10",
+        "name": "Enderness",
+        "kind": "album",
+        "copyright": "℗ 2019 Fat Possum Records",
+        "artistId": "261585215",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/us/artist/a-a-bondy/261585215?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bb/e1/fb/bbe1fb90-ff64-5c73-2e69-5d206e252982/193483418360.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1004",
+            "name": "Indie Rock",
+            "url": "https://itunes.apple.com/us/genre/id1004"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/enderness/1450556898?app=music"
+      },
+      {
+        "artistName": "Enigma Norteño",
+        "id": "1450414905",
+        "releaseDate": "2019-02-22",
+        "name": "Que Siga la Fiesta",
+        "kind": "album",
+        "copyright": "Fonovisa; ℗ 2019 UMG Recordings, Inc.",
+        "artistId": "216292583",
+        "artistUrl": "https://itunes.apple.com/us/artist/enigma-norte%C3%B1o/216292583?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/18/3e/18/183e18ab-eecb-c172-79eb-afad91da3a4a/00602577392986.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1123",
+            "name": "Música Mexicana",
+            "url": "https://itunes.apple.com/us/genre/id1123"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "12",
+            "name": "Latino",
+            "url": "https://itunes.apple.com/us/genre/id12"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/que-siga-la-fiesta/1450414905?app=music"
+      },
+      {
+        "artistName": "Over the Rhine",
+        "id": "1446477821",
+        "releaseDate": "2019-03-15",
+        "name": "Love \u0026 Revelation",
+        "kind": "album",
+        "copyright": "℗ 2019 Great Speckled Dog",
+        "artistId": "654493",
+        "artistUrl": "https://itunes.apple.com/us/artist/over-the-rhine/654493?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/15/12/31/1512312d-d0ac-3b19-2b19-2cf663398e2c/634457916029.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1034",
+            "name": "Americana",
+            "url": "https://itunes.apple.com/us/genre/id1034"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "6",
+            "name": "Country",
+            "url": "https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId": "1289",
+            "name": "Folk",
+            "url": "https://itunes.apple.com/us/genre/id1289"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/love-revelation/1446477821?app=music"
+      },
+      {
+        "artistName": "SASAMI",
+        "id": "1444433794",
+        "releaseDate": "2019-03-08",
+        "name": "SASAMI",
+        "kind": "album",
+        "copyright": "℗ 2019 Domino Recording Co Ltd",
+        "artistId": "1437464884",
+        "artistUrl": "https://itunes.apple.com/us/artist/sasami/1437464884?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/2a/5e/85/2a5e85f0-9f08-a82e-4ce0-14aa8f05ae77/887828045365.png/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/sasami/1444433794?app=music"
+      },
+      {
+        "artistName": "The Frights",
+        "id": "1452194725",
+        "releaseDate": "2019-04-12",
+        "name": "Live at the Observatory",
+        "kind": "album",
+        "copyright": "℗ 2019 Epitaph",
+        "artistId": "788762537",
+        "artistUrl": "https://itunes.apple.com/us/artist/the-frights/788762537?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/03/6d/81/036d8150-7c39-0637-16de-c20ced41826f/045778766406.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/live-at-the-observatory/1452194725?app=music"
+      },
+      {
+        "artistName": "Los Angeles Philharmonic \u0026 Gustavo Dudamel",
+        "id": "1451728121",
+        "releaseDate": "2019-03-15",
+        "name": "Celebrating John Williams (Live At Walt Disney Concert Hall, Los Angeles / 2019)",
+        "kind": "album",
+        "copyright": "℗ 2019 Deutsche Grammophon GmbH, Berlin",
+        "artistId": "4330471",
+        "artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us\u0026ids=4330471-173392443\u0026app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/81/8c/21/818c2123-b36f-f9df-58b0-41b5dbb96c74/00028948366521.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "5",
+            "name": "Classical",
+            "url": "https://itunes.apple.com/us/genre/id5"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "16",
+            "name": "Soundtrack",
+            "url": "https://itunes.apple.com/us/genre/id16"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/celebrating-john-williams-live-at-walt-disney-concert/1451728121?app=music"
+      },
+      {
+        "artistName": "Tim Baker",
+        "id": "1451626029",
+        "releaseDate": "2019-04-19",
+        "name": "Forever Overhead",
+        "kind": "album",
+        "copyright": "℗ 2019 Plug Your Ears Publishing under exclusive license to Arts \u0026 Crafts Productions Inc.",
+        "artistId": "1452002106",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/us/artist/tim-baker/1452002106?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/3b/73/01/3b7301e0-e7ca-2a34-7211-8e30072a78b6/00827590169159.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "10",
+            "name": "Singer/Songwriter",
+            "url": "https://itunes.apple.com/us/genre/id10"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/forever-overhead/1451626029?app=music"
+      },
+      {
+        "artistName": "Elijah Woods x Jamie Fine",
+        "id": "1451557436",
+        "releaseDate": "2019-03-08",
+        "name": "8:47",
+        "kind": "album",
+        "copyright": "℗ 2019 Big Machine Label Group, LLC \u0026 Bell Media, Inc.",
+        "artistId": "1199568566",
+        "artistUrl": "https://itunes.apple.com/us/artist/elijah-woods-x-jamie-fine/1199568566?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/0c/81/75/0c81755f-79da-4214-e293-cb912668007d/00843930040568.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/8-47/1451557436?app=music"
+      },
+      {
+        "artistName": "Visible Cloaks, Yoshio Ojima \u0026 Satsuki Shibano",
+        "id": "1451117906",
+        "releaseDate": "2019-04-05",
+        "name": "FRKWYS Vol. 15: serenitatem",
+        "kind": "album",
+        "copyright": "℗ 2019 RVNG Intl.",
+        "artistId": "1156262679",
+        "artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us\u0026ids=1156262679-1209921919-421995408\u0026app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/db/1d/17/db1d17b9-b555-e739-49d9-0fa93908182b/747742382369.png/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1056",
+            "name": "Ambient",
+            "url": "https://itunes.apple.com/us/genre/id1056"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "7",
+            "name": "Electronic",
+            "url": "https://itunes.apple.com/us/genre/id7"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/frkwys-vol-15-serenitatem/1451117906?app=music"
+      },
+      {
+        "artistName": "Zeal \u0026 Ardor",
+        "id": "1450956186",
+        "releaseDate": "2019-03-22",
+        "name": "Live in London",
+        "kind": "album",
+        "copyright": "℗ 2019 Manuel Gagneux under exclusive license to Radicalis Music GmbH and MVKA Limited",
+        "artistId": "1130919616",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/us/artist/zeal-ardor/1130919616?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/18/91/a5/1891a5fc-0633-6584-971a-8e85757505e8/190296911552.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1153",
+            "name": "Metal",
+            "url": "https://itunes.apple.com/us/genre/id1153"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/live-in-london/1450956186?app=music"
+      },
+      {
+        "artistName": "Ezra Collective",
+        "id": "1450944210",
+        "releaseDate": "2019-04-26",
+        "name": "You Can't Steal My Joy",
+        "kind": "album",
+        "copyright": "℗ 2019 Enter The Jungle",
+        "artistId": "1103640281",
+        "artistUrl": "https://itunes.apple.com/us/artist/ezra-collective/1103640281?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/15/6a/52/156a5295-a13c-8926-ddcb-28f24593db94/193483441931.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "11",
+            "name": "Jazz",
+            "url": "https://itunes.apple.com/us/genre/id11"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/you-cant-steal-my-joy/1450944210?app=music"
+      },
+      {
+        "artistName": "I Know Leopard",
+        "id": "1450578105",
+        "releaseDate": "2019-04-05",
+        "name": "Love Is a Landmine",
+        "kind": "album",
+        "copyright": "℗ 2019 Ivy League Records",
+        "artistId": "726884048",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/us/artist/i-know-leopard/726884048?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/e9/45/17/e9451774-5f22-bf8a-81d8-8c8ffbafccd7/Love_Is_A_Landmine.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/love-is-a-landmine/1450578105?app=music"
+      },
+      {
+        "artistName": "Drugdealer",
+        "id": "1450553111",
+        "releaseDate": "2019-04-19",
+        "name": "Raw Honey",
+        "kind": "album",
+        "copyright": "℗ 2019 Kemado Records, Inc., d/b/a Mexican Summer",
+        "artistId": "1131207634",
+        "artistUrl": "https://itunes.apple.com/us/artist/drugdealer/1131207634?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/0a/6a/7e/0a6a7edc-cbb0-7652-3843-f9baaf45cc04/00184923124866.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/raw-honey/1450553111?app=music"
+      },
+      {
+        "artistName": "Weyes Blood",
+        "id": "1450550344",
+        "releaseDate": "2019-04-05",
+        "name": "Titanic Rising",
+        "kind": "album",
+        "copyright": "℗ 2019 Sub Pop Records",
+        "artistId": "434780384",
+        "artistUrl": "https://itunes.apple.com/us/artist/weyes-blood/434780384?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/71/44/57/714457a8-d8da-8a91-8be7-9cf24b732eb8/WeyesBlood_TitanicRising_3600.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/titanic-rising/1450550344?app=music"
+      },
+      {
+        "artistName": "Versing",
+        "id": "1450546170",
+        "releaseDate": "2019-05-03",
+        "name": "10000",
+        "kind": "album",
+        "copyright": "℗ 2019 Hardly Art",
+        "artistId": "1267985706",
+        "artistUrl": "https://itunes.apple.com/us/artist/versing/1267985706?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/64/8c/e0/648ce0c4-60ee-c586-6b72-370e8b6db93d/Versing_10000_Cover_3000.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/10000/1450546170?app=music"
+      },
+      {
+        "artistName": "Tacocat",
+        "id": "1450545687",
+        "releaseDate": "2019-05-03",
+        "name": "This Mess Is a Place",
+        "kind": "album",
+        "copyright": "℗ 2019 Sub Pop Records",
+        "artistId": "287701058",
+        "artistUrl": "https://itunes.apple.com/us/artist/tacocat/287701058?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/81/0d/5b/810d5be9-18d2-5be4-9580-b80a417cf242/Tacocat_ThisMessIsAPlace_Cover_3000.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/this-mess-is-a-place/1450545687?app=music"
+      },
+      {
+        "artistName": "pronoun",
+        "id": "1450535214",
+        "releaseDate": "2019-05-24",
+        "name": "i'll show you stronger",
+        "kind": "album",
+        "copyright": "℗ 2019 Rhyme \u0026 Reason Records",
+        "artistId": "1095951067",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/us/artist/pronoun/1095951067?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/08/55/4d/08554d25-81d4-a15e-3886-b1e56cab8d84/860427004063.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/ill-show-you-stronger/1450535214?app=music"
+      },
+      {
+        "artistName": "Taali",
+        "id": "1450455934",
+        "releaseDate": "2019-03-22",
+        "name": "I Am Here",
+        "kind": "album",
+        "copyright": "℗ 2019 Rainbow Blonde Records",
+        "artistId": "312831616",
+        "artistUrl": "https://itunes.apple.com/us/artist/taali/312831616?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/f5/2c/ef/f52cef31-0dd7-907e-0b5f-35b136e4ac72/860041001271_Cover.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/i-am-here/1450455934?app=music"
+      },
+      {
+        "artistName": "Filthy Friends",
+        "id": "1450301961",
+        "releaseDate": "2019-05-03",
+        "name": "Emerald Valley",
+        "kind": "album",
+        "copyright": "℗ 2019 Kill Rock Stars",
+        "artistId": "1166730655",
+        "artistUrl": "https://itunes.apple.com/us/artist/filthy-friends/1166730655?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/49/a1/59/49a1597b-7216-f9fa-1d80-bade0f3b9daa/759656065429.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/emerald-valley/1450301961?app=music"
+      },
+      {
+        "artistName": "Damien Jurado",
+        "id": "1450056144",
+        "releaseDate": "2019-04-12",
+        "name": "In the Shape of a Storm",
+        "kind": "album",
+        "copyright": "℗ 2019 Mama Bird Recording Co.",
+        "artistId": "3260519",
+        "artistUrl": "https://itunes.apple.com/us/artist/damien-jurado/3260519?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/bf/ae/5d/bfae5da4-47ac-6cf3-d247-9f401490fc35/193483263236.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "10",
+            "name": "Singer/Songwriter",
+            "url": "https://itunes.apple.com/us/genre/id10"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/in-the-shape-of-a-storm/1450056144?app=music"
+      },
+      {
+        "artistName": "Lara Downes",
+        "id": "1449638967",
+        "releaseDate": "2019-03-01",
+        "name": "Holes in the Sky",
+        "kind": "album",
+        "copyright": "℗ 2019 Tritone Music, LLC under exclusive license to Sony Music Entertainment",
+        "artistId": "117668410",
+        "artistUrl": "https://itunes.apple.com/us/artist/lara-downes/117668410?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c4/8d/5e/c48d5ef9-83ed-a55c-5f07-e2f32feef725/886447429297.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1022",
+            "name": "Classical Crossover",
+            "url": "https://itunes.apple.com/us/genre/id1022"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "5",
+            "name": "Classical",
+            "url": "https://itunes.apple.com/us/genre/id5"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/holes-in-the-sky/1449638967?app=music"
+      },
+      {
+        "artistName": "Various Artists",
+        "id": "1449637577",
+        "releaseDate": "2019-03-01",
+        "name": "Street Shots 2019: Phenoms \u0026 Prodigies",
+        "kind": "album",
+        "copyright": "℗ 2019 21st Hapilos Digital",
+        "artistId": "36270",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/us/artist/various-artists/36270?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/c3/92/e7/c392e73d-7521-c2e7-73e5-ce67231f7254/193483351254.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1183",
+            "name": "Modern Dancehall",
+            "url": "https://itunes.apple.com/us/genre/id1183"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "24",
+            "name": "Reggae",
+            "url": "https://itunes.apple.com/us/genre/id24"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/street-shots-2019-phenoms-prodigies/1449637577?app=music"
+      },
+      {
+        "artistName": "Leo \"Bud\" Welch",
+        "id": "1449622936",
+        "releaseDate": "2019-03-08",
+        "name": "The Angels in Heaven Done Signed My Name",
+        "kind": "album",
+        "copyright": "℗ 2019 Easy Eye Sound",
+        "artistId": "969888823",
+        "artistUrl": "https://itunes.apple.com/us/artist/leo-bud-welch/969888823?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/48/46/e3/4846e39a-1600-3fc2-b809-917a4b7eae53/855380008548.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "2",
+            "name": "Blues",
+            "url": "https://itunes.apple.com/us/genre/id2"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "1012",
+            "name": "Delta Blues",
+            "url": "https://itunes.apple.com/us/genre/id1012"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/the-angels-in-heaven-done-signed-my-name/1449622936?app=music"
+      },
+      {
+        "artistName": "Inter Arma",
+        "id": "1449618555",
+        "releaseDate": "2019-04-12",
+        "name": "Sulphur English",
+        "kind": "album",
+        "copyright": "℗ 2019 Relapse Records Inc.",
+        "artistId": "529666351",
+        "artistUrl": "https://itunes.apple.com/us/artist/inter-arma/529666351?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/c2/78/d8/c278d85c-90d4-8d5a-f9a2-b21fd4cf711a/781676402014.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1153",
+            "name": "Metal",
+            "url": "https://itunes.apple.com/us/genre/id1153"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/sulphur-english/1449618555?app=music"
+      },
+      {
+        "artistName": "The Cleverlys",
+        "id": "1449528350",
+        "releaseDate": "2019-03-22",
+        "name": "Blue",
+        "kind": "album",
+        "copyright": "℗ 2019 Mountain Home Music Company",
+        "artistId": "482988217",
+        "artistUrl": "https://itunes.apple.com/us/artist/the-cleverlys/482988217?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/d4/2e/54/d42e5453-7302-67f3-68a4-b22213761f56/5588.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "6",
+            "name": "Country",
+            "url": "https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/blue/1449528350?app=music"
+      },
+      {
+        "artistName": "Dwight Trible",
+        "id": "1449513326",
+        "releaseDate": "2019-03-15",
+        "name": "Mothership",
+        "kind": "album",
+        "copyright": "℗ 2019 Gearbox Records",
+        "artistId": "74047312",
+        "artistUrl": "https://itunes.apple.com/us/artist/dwight-trible/74047312?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/b4/aa/93/b4aa93ff-d1cd-7980-a10c-5c53d961b1f9/634457917286.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "11",
+            "name": "Jazz",
+            "url": "https://itunes.apple.com/us/genre/id11"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "15",
+            "name": "R\u0026B/Soul",
+            "url": "https://itunes.apple.com/us/genre/id15"
+          },
+          {
+            "genreId": "1143",
+            "name": "Soul",
+            "url": "https://itunes.apple.com/us/genre/id1143"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/mothership/1449513326?app=music"
+      },
+      {
+        "artistName": "Norris Man",
+        "id": "1449489011",
+        "releaseDate": "2019-03-01",
+        "name": "Time",
+        "kind": "album",
+        "copyright": "℗ 2019 Knatural Entertainment",
+        "artistId": "24838143",
+        "artistUrl": "https://itunes.apple.com/us/artist/norris-man/24838143?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/86/ae/89/86ae89c2-0450-f7b8-841c-d5ee498ee1f1/193483380964.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "24",
+            "name": "Reggae",
+            "url": "https://itunes.apple.com/us/genre/id24"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/time/1449489011?app=music"
+      },
+      {
+        "artistName": "Fallujah",
+        "id": "1449481095",
+        "releaseDate": "2019-03-15",
+        "name": "Undying Light",
+        "kind": "album",
+        "copyright": "℗ 2019 Nuclear Blast",
+        "artistId": "474676502",
+        "artistUrl": "https://itunes.apple.com/us/artist/fallujah/474676502?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/16/b0/f0/16b0f064-f3e6-ffd7-f82f-994c085b3a50/727361476861.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1153",
+            "name": "Metal",
+            "url": "https://itunes.apple.com/us/genre/id1153"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/undying-light/1449481095?app=music"
+      },
+      {
+        "artistName": "Nat \"King\" Cole",
+        "id": "1449319968",
+        "releaseDate": "2019-03-15",
+        "name": "Ultimate Nat King Cole",
+        "kind": "album",
+        "copyright": "A Capitol Records release; This Compilation ℗ 2019 Capitol Records, LLC",
+        "artistId": "42616562",
+        "artistUrl": "https://itunes.apple.com/us/artist/nat-king-cole/42616562?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/a2/3a/ca/a23acab9-33b6-5afe-ca90-d40aa4f8ce27/00602577153556.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "11",
+            "name": "Jazz",
+            "url": "https://itunes.apple.com/us/genre/id11"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "25",
+            "name": "Easy Listening",
+            "url": "https://itunes.apple.com/us/genre/id25"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/ultimate-nat-king-cole/1449319968?app=music"
+      },
+      {
+        "artistName": "Dexter Story",
+        "id": "1449265015",
+        "releaseDate": "2019-03-15",
+        "name": "Bahir",
+        "kind": "album",
+        "copyright": "℗ 2019 Soundway Records Ltd",
+        "artistId": "276128002",
+        "artistUrl": "https://itunes.apple.com/us/artist/dexter-story/276128002?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b1/ea/51/b1ea51c7-dcbd-4331-dcfc-13bda38b4b90/cover.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "19",
+            "name": "World",
+            "url": "https://itunes.apple.com/us/genre/id19"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "1190",
+            "name": "Worldbeat",
+            "url": "https://itunes.apple.com/us/genre/id1190"
+          },
+          {
+            "genreId": "1203",
+            "name": "Africa",
+            "url": "https://itunes.apple.com/us/genre/id1203"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/bahir/1449265015?app=music"
+      },
+      {
+        "artistName": "Mdou Moctar",
+        "id": "1449182247",
+        "releaseDate": "2019-03-29",
+        "name": "Ilana (The Creator)",
+        "kind": "album",
+        "copyright": "℗ 2019 Sahel Sounds",
+        "artistId": "552742374",
+        "artistUrl": "https://itunes.apple.com/us/artist/mdou-moctar/552742374?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/1c/6a/a7/1c6aa7f9-5c3f-47ff-4a29-e2429a044f28/602318136893.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "19",
+            "name": "World",
+            "url": "https://itunes.apple.com/us/genre/id19"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/ilana-the-creator/1449182247?app=music"
+      },
+      {
+        "artistName": "Stephen Malkmus \u0026 The Jicks",
+        "id": "1449105904",
+        "releaseDate": "2019-03-15",
+        "name": "Groove Denied",
+        "kind": "album",
+        "copyright": "℗ 2019 Matador",
+        "artistId": "2989974",
+        "artistUrl": "https://itunes.apple.com/us/artist/stephen-malkmus-the-jicks/2989974?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/47/a6/a7/47a6a702-4efe-99ca-4fed-b9c989e45ba0/cover.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/groove-denied/1449105904?app=music"
+      },
+      {
+        "artistName": "Delicate Steve",
+        "id": "1449024204",
+        "releaseDate": "2019-03-01",
+        "name": "Till I Burn Up",
+        "kind": "album",
+        "copyright": "℗ 2019 Anti",
+        "artistId": "347043137",
+        "artistUrl": "https://itunes.apple.com/us/artist/delicate-steve/347043137?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/90/ed/72/90ed72f5-f55d-7ae6-357c-e1123fc125a3/045778763504.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/till-i-burn-up/1449024204?app=music"
+      },
+      {
+        "artistName": "Original Off-Broadway Cast of Cruel Intentions",
+        "id": "1448927346",
+        "releaseDate": "2019-03-08",
+        "name": "Cruel Intentions: The '90s Musical (Original Cast Album)",
+        "kind": "album",
+        "copyright": "℗ 2019 ABKCO Music \u0026 Records",
+        "artistId": "1448927347",
+        "artistUrl": "https://itunes.apple.com/us/artist/original-off-broadway-cast-of-cruel-intentions/1448927347?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/ef/0e/5d/ef0e5d86-641d-588d-f01a-3ebadd0aa291/00018771856023.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "16",
+            "name": "Soundtrack",
+            "url": "https://itunes.apple.com/us/genre/id16"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/cruel-intentions-the-90s-musical-original-cast-album/1448927346?app=music"
+      },
+      {
+        "artistName": "Westkust",
+        "id": "1448556152",
+        "releaseDate": "2019-03-01",
+        "name": "Westkust",
+        "kind": "album",
+        "copyright": "℗ 2019 Run For Cover Records",
+        "artistId": "533822373",
+        "artistUrl": "https://itunes.apple.com/us/artist/westkust/533822373?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/8c/64/68/8c64687e-cc4e-36b4-19ed-0d2c9c4b853e/811408031851.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "1004",
+            "name": "Indie Rock",
+            "url": "https://itunes.apple.com/us/genre/id1004"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/westkust/1448556152?app=music"
+      },
+      {
+        "artistName": "Wild Belle",
+        "id": "1448488933",
+        "releaseDate": "2019-03-22",
+        "name": "Everybody One of a Kind",
+        "kind": "album",
+        "copyright": "℗ 2019 Love Tone",
+        "artistId": "502094108",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/us/artist/wild-belle/502094108?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/c0/9b/9b/c09b9bff-0179-fc6a-a8c1-fef41eeb5f08/5054526221055_1.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/everybody-one-of-a-kind/1448488933?app=music"
+      },
+      {
+        "artistName": "Megadeth",
+        "id": "1447698969",
+        "releaseDate": "2019-03-22",
+        "name": "Warheads on Foreheads",
+        "kind": "album",
+        "copyright": "A Capitol Records release; This Compilation ℗ 2019 UMG Recordings, Inc.",
+        "artistId": "488289",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://itunes.apple.com/us/artist/megadeth/488289?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/13/bc/e6/13bce6b8-c0d0-7bf5-4a06-d05714f959b0/00602577361319.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1153",
+            "name": "Metal",
+            "url": "https://itunes.apple.com/us/genre/id1153"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/warheads-on-foreheads/1447698969?app=music"
+      },
+      {
+        "artistName": "Ex Hex",
+        "id": "1447560182",
+        "releaseDate": "2019-03-22",
+        "name": "It's Real",
+        "kind": "album",
+        "copyright": "℗ 2019 Merge Records",
+        "artistId": "835023665",
+        "artistUrl": "https://itunes.apple.com/us/artist/ex-hex/835023665?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/68/ba/34/68ba349f-33ca-b308-73b7-4abe73abdef3/660_exhex_itsreal_3600.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId": "1004",
+            "name": "Indie Rock",
+            "url": "https://itunes.apple.com/us/genre/id1004"
+          },
+          {
+            "genreId": "1006",
+            "name": "Punk",
+            "url": "https://itunes.apple.com/us/genre/id1006"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/its-real/1447560182?app=music"
+      },
+      {
+        "artistName": "Gary Hoey",
+        "id": "1447538328",
+        "releaseDate": "2019-03-15",
+        "name": "Neon Highway Blues",
+        "kind": "album",
+        "copyright": "℗ 2019 Mascot Label Group/Provogue Records",
+        "artistId": "3541448",
+        "artistUrl": "https://itunes.apple.com/us/artist/gary-hoey/3541448?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/25/36/89/25368906-6cb5-f822-1ab5-737c63185cb9/819873018452.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "2",
+            "name": "Blues",
+            "url": "https://itunes.apple.com/us/genre/id2"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/neon-highway-blues/1447538328?app=music"
+      },
+      {
+        "artistName": "Steve Davis",
+        "id": "1447439434",
+        "releaseDate": "2019-03-08",
+        "name": "Correlations",
+        "kind": "album",
+        "copyright": "℗ 2019 Smoke Sessions Records",
+        "artistId": "462910",
+        "artistUrl": "https://itunes.apple.com/us/artist/steve-davis/462910?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/0f/d7/14/0fd71459-220d-5dc1-d27f-70b062e4354e/193483266299.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "11",
+            "name": "Jazz",
+            "url": "https://itunes.apple.com/us/genre/id11"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/correlations/1447439434?app=music"
+      },
+      {
+        "artistName": "Venom Prison",
+        "id": "1447320896",
+        "releaseDate": "2019-03-15",
+        "name": "Samsara",
+        "kind": "album",
+        "copyright": "℗ 2019 Prosthetic Records, LLC",
+        "artistId": "992263953",
+        "artistUrl": "https://itunes.apple.com/us/artist/venom-prison/992263953?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/70/c0/75/70c0757e-c175-0a7e-247c-e60d94e00071/656191936422.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1149",
+            "name": "Death Metal/Black Metal",
+            "url": "https://itunes.apple.com/us/genre/id1149"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/samsara/1447320896?app=music"
+      },
+      {
+        "artistName": "John Paul White",
+        "id": "1447193613",
+        "releaseDate": "2019-04-12",
+        "name": "The Hurting Kind",
+        "kind": "album",
+        "copyright": "℗ 2019 Single Lock Records",
+        "artistId": "19986922",
+        "artistUrl": "https://itunes.apple.com/us/artist/john-paul-white/19986922?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/70/af/62/70af6253-25fd-1e64-d190-6e911aa614bf/701822967129.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "10",
+            "name": "Singer/Songwriter",
+            "url": "https://itunes.apple.com/us/genre/id10"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/the-hurting-kind/1447193613?app=music"
+      },
+      {
+        "artistName": "Teen Daze",
+        "id": "1447182880",
+        "releaseDate": "2019-04-26",
+        "name": "Bioluminescence",
+        "kind": "album",
+        "copyright": "℗ 2019 Flora",
+        "artistId": "382521046",
+        "artistUrl": "https://itunes.apple.com/us/artist/teen-daze/382521046?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5e/6c/3d/5e6c3de4-48b3-a703-e522-e418ce757956/cover.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/bioluminescence/1447182880?app=music"
+      },
+      {
+        "artistName": "Hand Habits",
+        "id": "1447174874",
+        "releaseDate": "2019-03-01",
+        "name": "placeholder",
+        "kind": "album",
+        "copyright": "℗ 2019 Saddle Creek",
+        "artistId": "753815291",
+        "artistUrl": "https://itunes.apple.com/us/artist/hand-habits/753815291?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/d9/66/10/d96610eb-fe93-29a4-1a3d-0aff388c4646/LBJ-291_10x10_300dpi_RGB.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/placeholder/1447174874?app=music"
+      },
+      {
+        "artistName": "Cochemea",
+        "id": "1446646705",
+        "releaseDate": "2019-02-22",
+        "name": "All My Relations",
+        "kind": "album",
+        "copyright": "℗ 2019 Daptone Records",
+        "artistId": "1446645492",
+        "artistUrl": "https://itunes.apple.com/us/artist/cochemea/1446645492?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/3a/57/b3/3a57b3b6-aeaf-5c66-96a8-d02d559e0a3d/193483285764.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "19",
+            "name": "World",
+            "url": "https://itunes.apple.com/us/genre/id19"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/all-my-relations/1446646705?app=music"
+      },
+      {
+        "artistName": "NO WIN",
+        "id": "1446642582",
+        "releaseDate": "2019-03-22",
+        "name": "downey",
+        "kind": "album",
+        "copyright": "℗ 2019 Dangerbird Records",
+        "artistId": "1157799649",
+        "artistUrl": "https://itunes.apple.com/us/artist/no-win/1157799649?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/81/c9/15/81c915a3-73d3-0327-61b9-e8db05e295a9/842803017768.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/downey/1446642582?app=music"
+      },
+      {
+        "artistName": "Garcia Peoples",
+        "id": "1446342562",
+        "releaseDate": "2019-03-29",
+        "name": "Natural Facts",
+        "kind": "album",
+        "copyright": "℗ 2019 Beyond Beyond Is Beyond Records",
+        "artistId": "1383983662",
+        "artistUrl": "https://itunes.apple.com/us/artist/garcia-peoples/1383983662?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/62/c1/67/62c16717-fd20-2ff4-59da-7d752ae264ce/634457916135.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1156",
+            "name": "Psychedelic",
+            "url": "https://itunes.apple.com/us/genre/id1156"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/natural-facts/1446342562?app=music"
+      },
+      {
+        "artistName": "Candlemass",
+        "id": "1446277011",
+        "releaseDate": "2019-02-22",
+        "name": "The Door to Doom",
+        "kind": "album",
+        "copyright": "℗ 2019 Napalm Records Handels Gmbh",
+        "artistId": "64944077",
+        "artistUrl": "https://itunes.apple.com/us/artist/candlemass/64944077?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/99/f5/9a/99f59a09-63c0-bf96-b9d3-cbc08e8dc405/840588121151.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1153",
+            "name": "Metal",
+            "url": "https://itunes.apple.com/us/genre/id1153"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/the-door-to-doom/1446277011?app=music"
+      },
+      {
+        "artistName": "Luke Sital-Singh",
+        "id": "1445876927",
+        "releaseDate": "2019-04-05",
+        "name": "A Golden State",
+        "kind": "album",
+        "copyright": "℗ 2019 Raygun Records",
+        "artistId": "282755793",
+        "artistUrl": "https://itunes.apple.com/us/artist/luke-sital-singh/282755793?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/71/04/f5/7104f593-de88-d230-4701-20bde31ad1a5/192562971604.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "10",
+            "name": "Singer/Songwriter",
+            "url": "https://itunes.apple.com/us/genre/id10"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/a-golden-state/1445876927?app=music"
+      },
+      {
+        "artistName": "Holding Absence",
+        "id": "1445718618",
+        "releaseDate": "2019-03-08",
+        "name": "Holding Absence",
+        "kind": "album",
+        "copyright": "℗ 2019 SHARPTONE",
+        "artistId": "1148561527",
+        "artistUrl": "https://itunes.apple.com/us/artist/holding-absence/1148561527?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/1a/88/21/1a8821f6-597a-c491-ee4c-fcdf2f06617d/727361478162.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1153",
+            "name": "Metal",
+            "url": "https://itunes.apple.com/us/genre/id1153"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url": "https://itunes.apple.com/us/album/holding-absence/1445718618?app=music"
+      }
+    ]
+  }
+}

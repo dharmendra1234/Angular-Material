@@ -8,6 +8,7 @@ import { Observable, of } from 'rxjs';
 import { catchError, map, tap } from 'rxjs/operators';
 import { Feeds } from './Feeds'
 import { Users } from './users';
+import { Feed } from './feed';
 
 const httpOptions = {
   headers: new HttpHeaders({ 'Content-Type': 'application/json' })
@@ -18,26 +19,16 @@ export class ItuneAppleService {
 
   private heroesUrl = 'api/v1/us/apple-music/coming-soon/all/100/explicit.json';  // URL to web api
 
+  feeds : Observable<Feed>;
   constructor(
     private http: HttpClient) { }
 
     getFeeds (): Observable<Feeds> {
       return this.http.get<Feeds>('/api/');
-      
+   }
+
+   /** can't bypass proxy for stackblitz so get the data from json */
+    getFeedFromJson(): Observable<Feeds> {
+     return this.http.get<Feeds>('http://localhost:4200/assets/data/feed.json');
     }
-
-  
-  // getFeeds1 () {
-  //   return this.http.get('/api/').subscribe(user=>{
-  //        console.log("tewtwet"+user);
-  //   })
-     
-  // }
-
-  getUsers () {
-    return this.http.get('/api/posts').subscribe(user=>{
-console.log("tewtwet"+user);
-    })
-     
-  }
 }
