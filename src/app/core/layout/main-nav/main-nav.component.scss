@@ -5,10 +5,11 @@ $primary: mat-palette($mat-grey, 400);
 
 .example-container {
   position: absolute;
-  top: 60px;
-  bottom: 60px;
+  top: 50px;
+  bottom: 50px;
   left: 0;
   right: 0;
+  
 }
 
 .example-header {
@@ -16,11 +17,13 @@ $primary: mat-palette($mat-grey, 400);
   top: 0;
   left: 0;
   right: 0;
+  height: 50px;
   }
 
 .app-sidenav-content {
   justify-items: center;
   height: 100%;
+  
 }
 
 .example-sidenav {
@@ -36,7 +39,7 @@ $primary: mat-palette($mat-grey, 400);
   bottom: 0;
   left: 0;
   right: 0;
- 
+  height: 50px;
 }
 
 .example-fill-remaining-space {
@@ -44,7 +47,7 @@ $primary: mat-palette($mat-grey, 400);
 }
 
 .link a {
-  width: 120px;
+ width: 100px;
 display: flex;
 }
 
