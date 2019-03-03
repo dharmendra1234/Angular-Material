@@ -1,28 +1,53 @@
 /* You can add global styles to this file, and also import other style files */
 @import "~@angular/material/theming";
 
+// @import 'app/core/layout/main-nav/main-nav.component.scss-theme.scss';
+
+
 @include mat-core();
 
+// @mixin angular-material-theme($theme) {
+//   @include anms-about-component-theme($theme);
+//   }
+
 //Default theme
+// $candy-app-primary: mat-palette($mat-indigo);
+// $candy-app-accent: mat-palette($mat-pink, A200, A100, A400); 
+// $candy-app-warn: mat-palette($mat-red);
+
 $candy-app-primary: mat-palette($mat-indigo);
-$candy-app-accent: mat-palette($mat-pink, A200, A100, A400); 
-$candy-app-warn: mat-palette($mat-red);
-$candy-app-theme: mat-light-theme(
-  $candy-app-primary,
-  $candy-app-accent,
-  $candy-app-warn
-);
+$candy-app-accent:  mat-palette($mat-pink, A200, A100, A400);
+$candy-app-theme:   mat-light-theme($candy-app-primary, $candy-app-accent);
+
+// $candy-app-theme: mat-light-theme(
+//   $candy-app-primary,
+//   $candy-app-accent,
+//   $candy-app-warn
+// );
 @include angular-material-theme($candy-app-theme);
 
-$dark-primary: mat-palette($mat-pink, 700);
-$dark-accent: mat-palette($mat-green);
-$dark-warn: mat-palette($mat-yellow);
+// @mixin angular-material-theme($candy-app-theme) {
+//   @include anms-about-component-theme($candy-app-theme);
+//   }
 
-$dark-theme: mat-dark-theme($dark-primary, $dark-accent, $dark-warn);
+
+// $dark-primary: mat-palette($mat-pink, 700);
+// $dark-accent: mat-palette($mat-green);
+// $dark-warn: mat-palette($mat-yellow);
+// $dark-theme: mat-dark-theme($dark-primary, $dark-accent, $dark-warn);
+
+$dark-primary: mat-palette($mat-blue-grey);
+$dark-accent:  mat-palette($mat-amber, A200, A100, A400);
+$dark-warn:    mat-palette($mat-deep-orange);
+$dark-theme:   mat-dark-theme($dark-primary, $dark-accent, $dark-warn);
 
 .unicorn-dark-theme {
   @include angular-material-theme($dark-theme);
 }
+
+// @mixin angular-material-theme($dark-theme) {
+//   @include anms-about-component-theme($dark-theme);
+//   }
 
 $first-custom-theme-primary: mat-palette($mat-cyan);
 $first-custom-theme-accent: mat-palette($mat-teal);
@@ -36,6 +61,11 @@ $first-theme: mat-dark-theme(
   @include angular-material-theme($first-theme);
 }
 
+// @mixin angular-material-theme($first-theme) {
+//   @include anms-about-component-theme($first-theme);
+//   }
+
+
 // Define an alternate dark theme.
 $second-custom-theme-primary: mat-palette($mat-blue);
 $second-custom-theme-accent: mat-palette($mat-teal);
@@ -48,6 +78,11 @@ $second-theme: mat-dark-theme(
 .second-theme {
   @include angular-material-theme($second-theme);
 }
+
+@mixin angular-material-theme($second-theme) {
+  @include anms-about-component-theme($second-theme);
+  }
+
 
 html,
 body {

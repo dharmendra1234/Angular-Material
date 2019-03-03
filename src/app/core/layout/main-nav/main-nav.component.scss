@@ -1,12 +1,12 @@
-@import '~@angular/material/theming';
-@include mat-core();
+//@import '~@angular/material/theming';
+//@include mat-core();
 
-$primary: mat-palette($mat-grey, 400);
+//$primary: mat-palette($mat-grey, 400);
 
 .example-container {
   position: absolute;
   top: 50px;
-  bottom: 50px;
+  bottom: 150px;
   left: 0;
   right: 0;
   
@@ -31,7 +31,7 @@ $primary: mat-palette($mat-grey, 400);
   align-items: center;
   width: 120px;
   flex-direction: column;
-}
+ }
 
 .example-footer {
   position: fixed;
@@ -39,7 +39,7 @@ $primary: mat-palette($mat-grey, 400);
   bottom: 0;
   left: 0;
   right: 0;
-  height: 50px;
+  height: 150px;
 }
 
 .example-fill-remaining-space {
@@ -48,7 +48,8 @@ $primary: mat-palette($mat-grey, 400);
 
 .link a {
  width: 100px;
-display: flex;
+ display: flex;
+
 }
 
 mat-sidenav-content{

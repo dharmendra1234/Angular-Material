@@ -6,6 +6,7 @@ import { ContactComponent } from "./components/contact/contact.component";
 import { DashboardComponent } from "./components/dashboard/dashboard.component";
 import { SettingsComponent } from "./core/settings/settings.component";
 import { SignInComponent } from "./components/sign-in/sign-in.component";
+import { RetroComponent } from "./retro/retro.component";
 
 const routes: Routes = [
   {
@@ -28,6 +29,12 @@ const routes: Routes = [
     path: "dashboard",
     component: DashboardComponent
   },
+
+  {
+    path: "retro",
+    component: RetroComponent
+  },
+  
   {
     path: "**",
     component: SignInComponent

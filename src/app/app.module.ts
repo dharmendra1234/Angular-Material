@@ -11,12 +11,15 @@ import { ContactComponent } from './components/contact/contact.component';
 import { SettingsComponent } from './core/settings/settings.component';
 import { MainNavComponent } from './core/layout/main-nav/main-nav.component';
 import { LayoutModule } from '@angular/cdk/layout';
-import { MatToolbarModule, MatButtonModule, MatSidenavModule, MatIconModule, MatListModule, MatSelectModule, MatCardModule, MatGridListModule, MatMenuModule, MatChipsModule, MatProgressBarModule, MatFormFieldModule, MatOptionModule, MatInputModule, MatDialogModule, MatTooltipModule, MatSpinner, MatProgressSpinnerModule } from '@angular/material';
+import { MatToolbarModule, MatButtonModule, MatSidenavModule, MatIconModule, MatListModule, MatSelectModule, MatCardModule, MatGridListModule, MatMenuModule, MatChipsModule, MatProgressBarModule, MatFormFieldModule, MatOptionModule, MatInputModule, MatDialogModule, MatTooltipModule, MatSpinner, MatProgressSpinnerModule, MatBadgeModule } from '@angular/material';
 import { ReactiveFormsModule, FormsModule } from '@angular/forms';
 import { DashboardComponent } from './components/dashboard/dashboard.component';
 import { SignInComponent } from './components/sign-in/sign-in.component';
 import { HttpClientModule } from '@angular/common/http';
-
+import { AuthService } from './core/auth.service';
+import { RegistrationComponent } from './components/registration/registration.component';
+import { RetroComponent } from './retro/retro.component';
+import { DragDropModule } from '@angular/cdk/drag-drop';
 
 @NgModule({
   declarations: [
@@ -26,7 +29,9 @@ import { HttpClientModule } from '@angular/common/http';
     SettingsComponent,
     MainNavComponent,
     DashboardComponent,
-    SignInComponent  
+    SignInComponent,
+    RegistrationComponent,
+    RetroComponent  
   ],
   entryComponents: [MainNavComponent, SettingsComponent],
   imports: [
@@ -62,9 +67,11 @@ import { HttpClientModule } from '@angular/common/http';
     MatTooltipModule,
     MatDialogModule,
     MatChipsModule,
-    MatProgressSpinnerModule
+    MatProgressSpinnerModule ,
+    DragDropModule,
+    MatBadgeModule
   ],
-  providers: [],
+  providers: [AuthService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

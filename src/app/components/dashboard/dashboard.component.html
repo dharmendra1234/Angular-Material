@@ -2,7 +2,7 @@
 <div class="grid-container">
   <h1 class="mat-h1">Dashboard</h1>
   <div *ngIf="results==null" class="spinner">  <mat-spinner mode="indeterminate" aria-label="test"> </mat-spinner></div>
-  <mat-grid-list cols="3" rowHeight="350px">
+  <mat-grid-list cols="4" rowHeight="350px">
     <mat-grid-tile *ngFor="let card of results" [colspan]="1" [rowspan]="1">
        
       <mat-card class="dashboard-card">

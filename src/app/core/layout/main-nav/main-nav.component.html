@@ -5,9 +5,10 @@
       <button mat-icon-button routerLink="/home">
         <mat-icon>home</mat-icon>
       </button>
-
+       
       <a mat-button routerLink="/signin">Sign In</a>
       <a mat-button routerLink="/registration">Registration</a>
+      <a mat-button  routerLink="/retro">Retro</a>
 
       <button
         mat-icon-button
@@ -34,14 +35,16 @@
             nav
           }}</a>
         </mat-nav-list>
-        <div class="link">
-          <a mat-button color="primary" routerLink="/dashboard">Dashboard</a>
-          <a mat-button color="primary" routerLink="/settings">Services</a>
-          <a mat-button color="primary" routerLink="/contact">Contact</a>
+        <!-- <div class="link" *ngIf="!isAuth"> -->
+          <div class="link" >
+          <a mat-button  routerLink="/dashboard">Dashboard</a>
+          <a mat-button  routerLink="/settings">Services</a>
+          <a mat-button  routerLink="/contact">Contact</a>
+          <a mat-button  routerLink="/retro">Contact</a>
         </div>
       </mat-sidenav>
 
-      <mat-sidenav-content>
+      <mat-sidenav-content class="background">
         <router-outlet></router-outlet>
       </mat-sidenav-content>
     </mat-sidenav-container>

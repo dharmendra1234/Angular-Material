@@ -1,0 +1,118 @@
+<div cdkDropListGroup>
+  <div class="example-container">
+    <button class="btn" mat-raised-button color="primary">Well Done</button>
+
+    <div
+      cdkDropList
+      [cdkDropListData]="wentWell"
+      class="example-list"
+      (cdkDropListDropped)="drop($event)">
+      <div class="example-box" *ngFor="let went of wentWell" cdkDrag>
+        {{ went.comment }}
+
+        <button mat-button (click)="onVote(went)">
+          <span>
+            <mat-icon color="primary" class="mat-18">thumb_up</mat-icon></span>
+        </button>
+
+        <span
+          matBadge="{{ went.vote }}"
+          matBadgeOverlap="false"
+          matBadgeColor="primary">
+        </span>
+      </div>
+
+      <div class="example-box1">
+        <mat-form-field appearance="fill">
+          <span class="mat-icon-space">
+            <input type="textarea" matInput color="warn" [(ngModel)]="comment_wentwell"  
+            (keyup.enter)="addComment(comment_wentwell,'WENT_WELL')"
+             name="comment_wentwell" />
+            <button
+              mat-raised-button
+              color="primary"
+              (click)="addComment(comment_wentwell,'WENT_WELL')">
+              <mat-icon> add_comment</mat-icon>
+            </button>
+          </span>
+        </mat-form-field>
+      </div>
+    </div>
+  </div>
+
+  <div class="example-container">
+    <button class="btn" mat-raised-button color="warn"> Need to be improved </button>
+
+    <div
+      cdkDropList
+      [cdkDropListData]="needToBeImproved"
+      class="example-list"      
+      (cdkDropListDropped)="drop($event)">
+
+      <div class="example-box" *ngFor="let needTBI of needToBeImproved" cdkDrag>
+        {{ needTBI.comment }}
+        <button mat-button (click)="onVote(needTBI)">
+          <span> <mat-icon color="warn" class="mat-18">thumb_up</mat-icon></span>
+        </button>
+
+        <span
+          matBadge="{{ needTBI.vote }}"
+          matBadgeOverlap="false"
+          matBadgeColor="warn">
+        </span>
+      </div>
+
+      <div class="example-box1">
+        <mat-form-field appearance="fill">
+          <span class="mat-icon-space">
+            <input [(ngModel)]="comment_need"  name="comment_need" matInput color="warn" />
+            <button
+              mat-raised-button
+              color="warn"
+              (click)="addComment(comment_need,'NEED_TO_BE_IMPROVED')">
+              <mat-icon> add_comment</mat-icon>
+            </button>
+          </span>
+        </mat-form-field>
+        
+      </div>
+    </div>
+  </div>
+
+  <div class="example-container">
+    <button class="btn" mat-raised-button color="accent">Action Items</button>
+
+    <div
+      cdkDropList
+      [cdkDropListData]="actionItems"
+      class="example-list"
+      (cdkDropListDropped)="drop($event)">
+      <div class="example-box" *ngFor="let comm of actionItems" cdkDrag>
+        {{ comm.comment }}
+        <button mat-button (click)="onVote(comm)">
+          <span>
+            <mat-icon color="accent" class="mat-18">thumb_up</mat-icon></span>
+        </button>
+        <span
+          matBadge="{{ comm.vote }}"
+          matBadgeOverlap="false"
+          matBadgeColor="accent">
+        </span>
+      </div>
+
+      <div class="example-box1">
+        <mat-form-field appearance="fill">
+          <span class="mat-icon-space">
+            <input [(ngModel)]="comment" matInput color="accent"  name="comment"/>
+            <button
+              mat-raised-button
+              color="accent"
+              (click)="addComment(comment,'ACTION_ITEMS')">
+              <mat-icon> add_comment</mat-icon>
+            </button>
+          </span>
+        </mat-form-field>
+      </div>
+    </div>
+  </div>
+</div>
